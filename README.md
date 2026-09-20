@@ -83,7 +83,7 @@ Open `skill_recommender.ipynb` in VS Code or Jupyter, select the `venv` kernel, 
 
 **Run the web app:**
 ```bash
-streamlit run webpage.py
+python -m streamlit run webpage.py
 ```
 This opens the app at `http://localhost:8501`. Enter your current skills and target IT role to get a personalized recommendation, along with the skill-association evidence it was based on.
 
