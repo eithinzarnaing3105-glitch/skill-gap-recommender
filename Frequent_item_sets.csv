@@ -1,0 +1,2006 @@
+﻿Size,Support,Item 1,Item 2,Item 3,Item 4
+1,0.3,Python,,,
+1,0.215,SQL,,,
+1,0.185,Communication,,,
+1,0.173,Java,,,
+1,0.166,AWS,,,
+1,0.107,Kubernetes,,,
+1,0.106,Teamwork,,,
+1,0.099,Docker,,,
+1,0.099,Troubleshooting,,,
+1,0.098,Linux,,,
+1,0.097,Agile,,,
+1,0.088,Software Engineering,,,
+1,0.086,Data Analysis,,,
+1,0.084,Problem Solving,,,
+1,0.084,Leadership,,,
+1,0.083,JavaScript,,,
+1,0.081,Collaboration,,,
+1,0.075,DevOps,,,
+1,0.075,Computer Science,,,
+1,0.074,Azure,,,
+1,0.065,Software Development,,,
+1,0.064,Project Management,,,
+1,0.063,Go,,,
+1,0.063,C++,,,
+1,0.062,Communication Skills,,,
+1,0.062,Git,,,
+1,0.061,Machine Learning,,,
+1,0.056,Communication skills,,,
+1,0.055,Bachelor's Degree,,,
+1,0.054,Cloud Computing,,,
+1,0.052,Tableau,,,
+1,0.05,Data Visualization,,,
+1,0.05,Quality Assurance,,,
+1,0.05,Problemsolving,,,
+1,0.049,Jenkins,,,
+1,0.049,NoSQL,,,
+1,0.047,Scala,,,
+1,0.047,Networking,,,
+1,0.046,React,,,
+1,0.045,Documentation,,,
+1,0.045,Automation,,,
+1,0.044,Terraform,,,
+1,0.043,Ansible,,,
+1,0.042,Security,,,
+1,0.042,GCP,,,
+1,0.042,Spark,,,
+1,0.042,CI/CD,,,
+1,0.041,Windows,,,
+1,0.041,Data analysis,,,
+1,0.041,Analytical Skills,,,
+1,0.04,Mentoring,,,
+1,0.04,Microservices,,,
+1,0.039,Engineering,,,
+1,0.039,R,,,
+1,0.038,TypeScript,,,
+1,0.037,Reporting,,,
+1,0.037,Attention to Detail,,,
+1,0.037,HTML,,,
+1,0.036,Kafka,,,
+1,0.036,Testing,,,
+1,0.035,CSS,,,
+1,0.035,ProblemSolving,,,
+1,0.035,Data Analytics,,,
+1,0.035,Power BI,,,
+1,0.033,Angular,,,
+1,0.033,Data Engineering,,,
+1,0.033,Data Science,,,
+1,0.033,Hadoop,,,
+1,0.033,Analytical skills,,,
+1,0.032,MySQL,,,
+1,0.032,Jira,,,
+1,0.032,Excel,,,
+1,0.032,Scrum,,,
+1,0.031,Active Directory,,,
+1,0.031,Node.js,,,
+1,0.031,Business Intelligence,,,
+1,0.03,Project management,,,
+1,0.03,Attention to detail,,,
+1,0.03,Data Warehousing,,,
+1,0.029,Snowflake,,,
+1,0.029,Software engineering,,,
+1,0.029,Microsoft Office,,,
+1,0.028,DNS,,,
+1,0.028,Cybersecurity,,,
+1,0.028,Time Management,,,
+1,0.028,Microsoft Azure,,,
+1,0.028,Training,,,
+1,0.028,Oracle,,,
+1,0.027,Statistics,,,
+1,0.027,Agile Development,,,
+1,0.026,Adaptability,,,
+1,0.026,Cloud computing,,,
+1,0.026,Microsoft Office Suite,,,
+1,0.026,Data Modeling,,,
+1,0.026,Software development,,,
+1,0.026,Bachelor's degree,,,
+1,0.026,Debugging,,,
+1,0.026,Scripting,,,
+1,0.025,ETL,,,
+1,0.025,Risk Management,,,
+1,0.025,PowerShell,,,
+1,0.025,TCP/IP,,,
+1,0.024,Problem solving,,,
+1,0.024,Data Management,,,
+1,0.023,Machine learning,,,
+1,0.023,Multitasking,,,
+1,0.023,Customer Service,,,
+1,0.023,Data visualization,,,
+1,0.023,Algorithms,,,
+1,0.023,Interpersonal Skills,,,
+1,0.023,Confluence,,,
+1,0.022,Bash,,,
+1,0.022,Network Security,,,
+1,0.022,Problemsolving skills,,,
+1,0.022,Unit Testing,,,
+1,0.022,Firewalls,,,
+1,0.022,Design,,,
+1,0.021,PostgreSQL,,,
+1,0.021,Network Engineering,,,
+1,0.021,Innovation,,,
+1,0.021,Critical Thinking,,,
+1,0.02,Integrity,,,
+1,0.02,C/C++,,,
+1,0.02,Accounting,,,
+1,0.02,Software Testing,,,
+1,0.02,SQL Server,,,
+1,0.019,Data Mining,,,
+1,0.019,Electrical Engineering,,,
+1,0.019,C,,,
+1,0.019,MongoDB,,,
+1,0.019,Scalability,,,
+1,0.019,Hive,,,
+1,0.019,Confidentiality,,,
+1,0.019,Databases,,,
+1,0.018,Compliance,,,
+1,0.018,Interpersonal skills,,,
+1,0.018,RDBMS,,,
+1,0.018,Time management,,,
+1,0.018,Unit testing,,,
+1,0.018,Open Source RDBMS,,,
+1,0.018,Continuous Integration,,,
+1,0.018,Monitoring,,,
+1,0.018,Google Cloud,,,
+1,0.018,Master's Degree,,,
+1,0.018,Puppet,,,
+1,0.018,Programming,,,
+1,0.017,Splunk,,,
+1,0.017,Customer service,,,
+1,0.017,HTML/CSS,,,
+1,0.017,Availability,,,
+1,0.017,VMware,,,
+1,0.017,Artificial Intelligence,,,
+1,0.017,Written Communication,,,
+1,0.017,Mathematics,,,
+1,0.017,Information Technology,,,
+1,0.017,Software Design,,,
+1,0.017,Auditing,,,
+1,0.016,JIRA,,,
+1,0.016,Big Data,,,
+1,0.016,Prioritization,,,
+1,0.016,Unix,,,
+1,0.016,Agile practices,,,
+1,0.016,Cassandra,,,
+1,0.016,DHCP,,,
+1,0.016,Redshift,,,
+1,0.016,Organizational Skills,,,
+1,0.015,Data Structures,,,
+1,0.015,PyTorch,,,
+1,0.015,Data Governance,,,
+1,0.015,Analytics,,,
+1,0.015,BGP,,,
+1,0.015,Data modeling,,,
+1,0.015,Research,,,
+1,0.015,GitHub,,,
+1,0.015,Distributed Systems,,,
+1,0.015,S3,,,
+1,0.015,Data Integration,,,
+1,0.015,Virtualization,,,
+1,0.015,Golang,,,
+1,0.015,Incident Response,,,
+1,0.014,Organization,,,
+1,0.014,Computer Engineering,,,
+1,0.014,APIs,,,
+1,0.014,Data Quality,,,
+1,0.014,Statistical Analysis,,,
+1,0.014,CISSP,,,
+1,0.014,NoSQL databases,,,
+1,0.014,ProblemSolving Skills,,,
+1,0.014,Agile development,,,
+1,0.014,Verbal Communication,,,
+1,0.014,TensorFlow,,,
+1,0.014,OSPF,,,
+1,0.014,Root Cause Analysis,,,
+1,0.014,Data Pipelines,,,
+1,0.014,Flexibility,,,
+1,0.014,System Administration,,,
+1,0.014,Team Leadership,,,
+1,0.014,Manufacturing,,,
+1,0.014,CCNA,,,
+1,0.013,Audit,,,
+1,0.013,Technical Writing,,,
+1,0.013,Development,,,
+1,0.013,Organizational skills,,,
+1,0.013,Typescript,,,
+1,0.013,Coaching,,,
+1,0.013,Microsoft Excel,,,
+1,0.013,REST,,,
+1,0.013,Quality Control,,,
+1,0.013,SharePoint,,,
+1,0.013,Deployment,,,
+1,0.013,Spring Boot,,,
+1,0.013,Airflow,,,
+1,0.013,Routing,,,
+1,0.013,People Management,,,
+1,0.013,Finance,,,
+1,0.012,Written communication,,,
+1,0.012,Open Source Frameworks,,,
+1,0.012,Implementation,,,
+1,0.012,Ruby,,,
+1,0.012,Data Security,,,
+1,0.012,Change Management,,,
+1,0.012,Software Architecture,,,
+1,0.012,Windows Server,,,
+1,0.012,Perl,,,
+1,0.012,Presentation Skills,,,
+1,0.012,VPN,,,
+1,0.012,XML,,,
+1,0.012,Travel,,,
+1,0.012,Planning,,,
+1,0.012,PowerBI,,,
+1,0.012,Analysis,,,
+1,0.012,Containerization,,,
+1,0.012,MPLS,,,
+1,0.012,Javascript,,,
+1,0.012,Regulatory Compliance,,,
+1,0.012,Computer science,,,
+1,0.012,Decision Making,,,
+1,0.012,Maintenance,,,
+1,0.012,SAP,,,
+1,0.012,Kanban,,,
+1,0.012,Critical thinking,,,
+1,0.012,JSON,,,
+1,0.011,EMR,,,
+1,0.011,Postgres,,,
+1,0.011,Prototyping,,,
+1,0.011,Full Stack Development,,,
+1,0.011,Encryption,,,
+1,0.011,Hardware,,,
+1,0.011,Node,,,
+1,0.011,Analytical Thinking,,,
+1,0.011,Continuous Improvement,,,
+1,0.011,US Citizenship,,,
+1,0.011,GitLab,,,
+1,0.011,Information Security,,,
+1,0.011,Robotics,,,
+1,0.011,Software,,,
+1,0.011,Information Systems,,,
+1,0.011,Network Troubleshooting,,,
+1,0.011,PowerPoint,,,
+1,0.011,Programming Languages,,,
+1,0.011,Routers,,,
+1,0.011,Selenium,,,
+1,0.011,Data warehousing,,,
+1,0.011,Data science,,,
+1,0.011,Initiative,,,
+1,0.011,Open source frameworks,,,
+1,0.011,Storage,,,
+1,0.011,Verbal communication,,,
+1,0.01,AI,,,
+1,0.01,DevSecOps,,,
+1,0.01,Network security,,,
+1,0.01,Team Collaboration,,,
+1,0.01,Chef,,,
+1,0.01,Deep Learning,,,
+1,0.01,Management,,,
+1,0.01,Maven,,,
+1,0.01,Android,,,
+1,0.01,Cloud,,,
+1,0.01,Coding,,,
+1,0.01,Data engineering,,,
+1,0.01,Optimization,,,
+1,0.01,Process Improvement,,,
+1,0.01,SIEM,,,
+1,0.01,Spring,,,
+1,0.01,Diversity,,,
+1,0.01,Performance,,,
+1,0.01,Budgeting,,,
+1,0.01,Creativity,,,
+1,0.01,Data management,,,
+1,0.01,Distributed systems,,,
+1,0.01,Infrastructure as Code,,,
+1,0.01,Kotlin,,,
+1,0.01,Databricks,,,
+1,0.01,Risk management,,,
+1,0.01,Cyber Security,,,
+2,0.134,Python,SQL,,
+2,0.046,Python,Communication,,
+2,0.108,Python,Java,,
+2,0.103,Python,AWS,,
+2,0.069,Python,Kubernetes,,
+2,0.025,Python,Teamwork,,
+2,0.065,Python,Docker,,
+2,0.021,Python,Troubleshooting,,
+2,0.049,Python,Linux,,
+2,0.052,Python,Agile,,
+2,0.039,Python,Software Engineering,,
+2,0.032,Python,Data Analysis,,
+2,0.021,Python,Problem Solving,,
+2,0.015,Python,Leadership,,
+2,0.039,Python,JavaScript,,
+2,0.025,Python,Collaboration,,
+2,0.04,Python,DevOps,,
+2,0.027,Python,Computer Science,,
+2,0.04,Python,Azure,,
+2,0.023,Python,Software Development,,
+2,0.012,Python,Project Management,,
+2,0.055,Python,Go,,
+2,0.036,Python,C++,,
+2,0.015,Python,Communication Skills,,
+2,0.032,Python,Git,,
+2,0.046,Python,Machine Learning,,
+2,0.012,Python,Communication skills,,
+2,0.02,Python,Bachelor's Degree,,
+2,0.033,Python,Cloud Computing,,
+2,0.033,Python,Tableau,,
+2,0.029,Python,Data Visualization,,
+2,0.012,Python,Problemsolving,,
+2,0.027,Python,Jenkins,,
+2,0.037,Python,NoSQL,,
+2,0.043,Python,Scala,,
+2,0.015,Python,Networking,,
+2,0.016,Python,React,,
+2,0.021,Python,Automation,,
+2,0.03,Python,Terraform,,
+2,0.026,Python,Ansible,,
+2,0.016,Python,Security,,
+2,0.031,Python,GCP,,
+2,0.037,Python,Spark,,
+2,0.023,Python,CI/CD,,
+2,0.016,Python,Windows,,
+2,0.017,Python,Data analysis,,
+2,0.012,Python,Mentoring,,
+2,0.018,Python,Microservices,,
+2,0.011,Python,Engineering,,
+2,0.037,Python,R,,
+2,0.022,Python,TypeScript,,
+2,0.012,Python,HTML,,
+2,0.025,Python,Kafka,,
+2,0.011,Python,CSS,,
+2,0.017,Python,Data Analytics,,
+2,0.018,Python,Power BI,,
+2,0.011,Python,Angular,,
+2,0.024,Python,Data Engineering,,
+2,0.025,Python,Data Science,,
+2,0.027,Python,Hadoop,,
+2,0.02,Python,MySQL,,
+2,0.015,Python,Jira,,
+2,0.014,Python,Scrum,,
+2,0.016,Python,Node.js,,
+2,0.014,Python,Business Intelligence,,
+2,0.017,Python,Data Warehousing,,
+2,0.023,Python,Snowflake,,
+2,0.013,Python,Software engineering,,
+2,0.011,Python,DNS,,
+2,0.018,Python,Microsoft Azure,,
+2,0.019,Python,Statistics,,
+2,0.013,Python,Agile Development,,
+2,0.016,Python,Cloud computing,,
+2,0.013,Python,Data Modeling,,
+2,0.014,Python,Scripting,,
+2,0.016,Python,ETL,,
+2,0.018,Python,PowerShell,,
+2,0.012,Python,TCP/IP,,
+2,0.017,Python,Machine learning,,
+2,0.013,Python,Data visualization,,
+2,0.011,Python,Algorithms,,
+2,0.012,Python,Confluence,,
+2,0.019,Python,Bash,,
+2,0.011,Python,PostgreSQL,,
+2,0.012,Python,C/C++,,
+2,0.012,Python,Data Mining,,
+2,0.01,Python,MongoDB,,
+2,0.016,Python,Hive,,
+2,0.015,Python,RDBMS,,
+2,0.017,Python,Open Source RDBMS,,
+2,0.013,Python,Google Cloud,,
+2,0.014,Python,Puppet,,
+2,0.013,Python,HTML/CSS,,
+2,0.011,Python,Artificial Intelligence,,
+2,0.012,Python,Big Data,,
+2,0.012,Python,Agile practices,,
+2,0.012,Python,Cassandra,,
+2,0.014,Python,Redshift,,
+2,0.014,Python,PyTorch,,
+2,0.012,Python,NoSQL databases,,
+2,0.013,Python,TensorFlow,,
+2,0.011,Python,Data Pipelines,,
+2,0.011,Python,Airflow,,
+2,0.011,Python,Ruby,,
+2,0.011,Python,Perl,,
+2,0.011,Python,EMR,,
+2,0.043,SQL,Communication,,
+2,0.081,SQL,Java,,
+2,0.071,SQL,AWS,,
+2,0.047,SQL,Kubernetes,,
+2,0.021,SQL,Teamwork,,
+2,0.046,SQL,Docker,,
+2,0.011,SQL,Troubleshooting,,
+2,0.021,SQL,Linux,,
+2,0.043,SQL,Agile,,
+2,0.023,SQL,Software Engineering,,
+2,0.038,SQL,Data Analysis,,
+2,0.022,SQL,Problem Solving,,
+2,0.013,SQL,Leadership,,
+2,0.036,SQL,JavaScript,,
+2,0.018,SQL,Collaboration,,
+2,0.02,SQL,DevOps,,
+2,0.015,SQL,Computer Science,,
+2,0.027,SQL,Azure,,
+2,0.012,SQL,Software Development,,
+2,0.014,SQL,Project Management,,
+2,0.033,SQL,Go,,
+2,0.013,SQL,Communication Skills,,
+2,0.02,SQL,Git,,
+2,0.026,SQL,Machine Learning,,
+2,0.011,SQL,Communication skills,,
+2,0.015,SQL,Bachelor's Degree,,
+2,0.026,SQL,Cloud Computing,,
+2,0.041,SQL,Tableau,,
+2,0.035,SQL,Data Visualization,,
+2,0.01,SQL,Problemsolving,,
+2,0.016,SQL,Jenkins,,
+2,0.039,SQL,NoSQL,,
+2,0.031,SQL,Scala,,
+2,0.012,SQL,React,,
+2,0.021,SQL,GCP,,
+2,0.027,SQL,Spark,,
+2,0.018,SQL,Data analysis,,
+2,0.011,SQL,Analytical Skills,,
+2,0.016,SQL,Microservices,,
+2,0.032,SQL,R,,
+2,0.02,SQL,TypeScript,,
+2,0.015,SQL,Reporting,,
+2,0.014,SQL,HTML,,
+2,0.018,SQL,Kafka,,
+2,0.012,SQL,CSS,,
+2,0.019,SQL,Data Analytics,,
+2,0.024,SQL,Power BI,,
+2,0.012,SQL,Angular,,
+2,0.021,SQL,Data Engineering,,
+2,0.02,SQL,Data Science,,
+2,0.022,SQL,Hadoop,,
+2,0.014,SQL,MySQL,,
+2,0.01,SQL,Jira,,
+2,0.012,SQL,Excel,,
+2,0.012,SQL,Scrum,,
+2,0.014,SQL,Node.js,,
+2,0.022,SQL,Business Intelligence,,
+2,0.021,SQL,Data Warehousing,,
+2,0.019,SQL,Snowflake,,
+2,0.014,SQL,Microsoft Azure,,
+2,0.015,SQL,Oracle,,
+2,0.017,SQL,Statistics,,
+2,0.013,SQL,Cloud computing,,
+2,0.017,SQL,Data Modeling,,
+2,0.018,SQL,ETL,,
+2,0.011,SQL,Data Management,,
+2,0.011,SQL,Machine learning,,
+2,0.015,SQL,Data visualization,,
+2,0.014,SQL,Data Mining,,
+2,0.012,SQL,Hive,,
+2,0.014,SQL,RDBMS,,
+2,0.015,SQL,Open Source RDBMS,,
+2,0.015,SQL,HTML/CSS,,
+2,0.011,SQL,Agile practices,,
+2,0.01,SQL,Data Governance,,
+2,0.01,SQL,Data Quality,,
+2,0.011,SQL,NoSQL databases,,
+2,0.01,SQL,Open Source Frameworks,,
+2,0.022,Communication,Java,,
+2,0.024,Communication,AWS,,
+2,0.013,Communication,Kubernetes,,
+2,0.06,Communication,Teamwork,,
+2,0.011,Communication,Docker,,
+2,0.027,Communication,Troubleshooting,,
+2,0.012,Communication,Linux,,
+2,0.019,Communication,Agile,,
+2,0.016,Communication,Software Engineering,,
+2,0.031,Communication,Data Analysis,,
+2,0.05,Communication,Problem Solving,,
+2,0.052,Communication,Leadership,,
+2,0.013,Communication,JavaScript,,
+2,0.047,Communication,Collaboration,,
+2,0.014,Communication,DevOps,,
+2,0.014,Communication,Computer Science,,
+2,0.013,Communication,Azure,,
+2,0.015,Communication,Software Development,,
+2,0.027,Communication,Project Management,,
+2,0.013,Communication,Machine Learning,,
+2,0.014,Communication,Bachelor's Degree,,
+2,0.015,Communication,Tableau,,
+2,0.016,Communication,Data Visualization,,
+2,0.017,Communication,Quality Assurance,,
+2,0.03,Communication,Problemsolving,,
+2,0.017,Communication,Documentation,,
+2,0.014,Communication,Data analysis,,
+2,0.014,Communication,Analytical Skills,,
+2,0.017,Communication,Mentoring,,
+2,0.011,Communication,R,,
+2,0.016,Communication,Reporting,,
+2,0.018,Communication,Attention to Detail,,
+2,0.021,Communication,ProblemSolving,,
+2,0.01,Communication,Data Analytics,,
+2,0.011,Communication,Power BI,,
+2,0.01,Communication,Business Intelligence,,
+2,0.012,Communication,Project management,,
+2,0.012,Communication,Attention to detail,,
+2,0.015,Communication,Time Management,,
+2,0.012,Communication,Training,,
+2,0.015,Communication,Adaptability,,
+2,0.011,Communication,Microsoft Office Suite,,
+2,0.012,Communication,Problem solving,,
+2,0.012,Communication,Innovation,,
+2,0.012,Communication,Critical Thinking,,
+2,0.081,Java,AWS,,
+2,0.054,Java,Kubernetes,,
+2,0.013,Java,Teamwork,,
+2,0.053,Java,Docker,,
+2,0.027,Java,Linux,,
+2,0.05,Java,Agile,,
+2,0.036,Java,Software Engineering,,
+2,0.011,Java,Problem Solving,,
+2,0.01,Java,Leadership,,
+2,0.048,Java,JavaScript,,
+2,0.013,Java,Collaboration,,
+2,0.023,Java,DevOps,,
+2,0.014,Java,Computer Science,,
+2,0.024,Java,Azure,,
+2,0.021,Java,Software Development,,
+2,0.039,Java,Go,,
+2,0.024,Java,C++,,
+2,0.023,Java,Git,,
+2,0.017,Java,Machine Learning,,
+2,0.018,Java,Bachelor's Degree,,
+2,0.026,Java,Cloud Computing,,
+2,0.023,Java,Jenkins,,
+2,0.034,Java,NoSQL,,
+2,0.039,Java,Scala,,
+2,0.022,Java,React,,
+2,0.022,Java,GCP,,
+2,0.023,Java,Spark,,
+2,0.011,Java,CI/CD,,
+2,0.01,Java,Mentoring,,
+2,0.026,Java,Microservices,,
+2,0.025,Java,TypeScript,,
+2,0.017,Java,HTML,,
+2,0.023,Java,Kafka,,
+2,0.015,Java,CSS,,
+2,0.022,Java,Angular,,
+2,0.019,Java,Hadoop,,
+2,0.016,Java,MySQL,,
+2,0.011,Java,Jira,,
+2,0.013,Java,Scrum,,
+2,0.017,Java,Node.js,,
+2,0.013,Java,Snowflake,,
+2,0.013,Java,Software engineering,,
+2,0.017,Java,Microsoft Azure,,
+2,0.01,Java,Oracle,,
+2,0.015,Java,Cloud computing,,
+2,0.012,Java,Hive,,
+2,0.015,Java,RDBMS,,
+2,0.017,Java,Open Source RDBMS,,
+2,0.012,Java,Google Cloud,,
+2,0.016,Java,HTML/CSS,,
+2,0.013,Java,Agile practices,,
+2,0.012,Java,Cassandra,,
+2,0.012,Java,NoSQL databases,,
+2,0.011,Java,Spring Boot,,
+2,0.011,Java,Open Source Frameworks,,
+2,0.062,AWS,Kubernetes,,
+2,0.013,AWS,Teamwork,,
+2,0.06,AWS,Docker,,
+2,0.022,AWS,Linux,,
+2,0.047,AWS,Agile,,
+2,0.031,AWS,Software Engineering,,
+2,0.011,AWS,Problem Solving,,
+2,0.012,AWS,Leadership,,
+2,0.034,AWS,JavaScript,,
+2,0.015,AWS,Collaboration,,
+2,0.03,AWS,DevOps,,
+2,0.014,AWS,Computer Science,,
+2,0.053,AWS,Azure,,
+2,0.014,AWS,Software Development,,
+2,0.037,AWS,Go,,
+2,0.01,AWS,C++,,
+2,0.021,AWS,Git,,
+2,0.019,AWS,Machine Learning,,
+2,0.017,AWS,Bachelor's Degree,,
+2,0.03,AWS,Cloud Computing,,
+2,0.021,AWS,Jenkins,,
+2,0.031,AWS,NoSQL,,
+2,0.03,AWS,Scala,,
+2,0.022,AWS,React,,
+2,0.011,AWS,Automation,,
+2,0.022,AWS,Terraform,,
+2,0.014,AWS,Ansible,,
+2,0.011,AWS,Security,,
+2,0.037,AWS,GCP,,
+2,0.021,AWS,Spark,,
+2,0.015,AWS,CI/CD,,
+2,0.021,AWS,Microservices,,
+2,0.025,AWS,TypeScript,,
+2,0.01,AWS,HTML,,
+2,0.017,AWS,Kafka,,
+2,0.011,AWS,CSS,,
+2,0.014,AWS,Angular,,
+2,0.01,AWS,Data Engineering,,
+2,0.016,AWS,Hadoop,,
+2,0.015,AWS,MySQL,,
+2,0.011,AWS,Jira,,
+2,0.012,AWS,Scrum,,
+2,0.019,AWS,Node.js,,
+2,0.014,AWS,Snowflake,,
+2,0.011,AWS,Software engineering,,
+2,0.019,AWS,Microsoft Azure,,
+2,0.016,AWS,Cloud computing,,
+2,0.014,AWS,RDBMS,,
+2,0.015,AWS,Open Source RDBMS,,
+2,0.017,AWS,Google Cloud,,
+2,0.013,AWS,HTML/CSS,,
+2,0.012,AWS,Agile practices,,
+2,0.01,AWS,Redshift,,
+2,0.01,AWS,NoSQL databases,,
+2,0.01,AWS,Open Source Frameworks,,
+2,0.081,Kubernetes,Docker,,
+2,0.02,Kubernetes,Linux,,
+2,0.027,Kubernetes,Agile,,
+2,0.022,Kubernetes,Software Engineering,,
+2,0.025,Kubernetes,JavaScript,,
+2,0.01,Kubernetes,Collaboration,,
+2,0.027,Kubernetes,DevOps,,
+2,0.021,Kubernetes,Azure,,
+2,0.035,Kubernetes,Go,,
+2,0.017,Kubernetes,Git,,
+2,0.018,Kubernetes,Cloud Computing,,
+2,0.021,Kubernetes,Jenkins,,
+2,0.022,Kubernetes,NoSQL,,
+2,0.015,Kubernetes,Scala,,
+2,0.013,Kubernetes,React,,
+2,0.023,Kubernetes,Terraform,,
+2,0.019,Kubernetes,Ansible,,
+2,0.018,Kubernetes,GCP,,
+2,0.014,Kubernetes,CI/CD,,
+2,0.019,Kubernetes,Microservices,,
+2,0.018,Kubernetes,TypeScript,,
+2,0.013,Kubernetes,Kafka,,
+2,0.012,Kubernetes,Node.js,,
+2,0.01,Kubernetes,Bash,,
+2,0.011,Kubernetes,RDBMS,,
+2,0.014,Kubernetes,Open Source RDBMS,,
+2,0.012,Kubernetes,HTML/CSS,,
+2,0.01,Kubernetes,Agile practices,,
+2,0.015,Teamwork,Troubleshooting,,
+2,0.016,Teamwork,Data Analysis,,
+2,0.028,Teamwork,Problem Solving,,
+2,0.028,Teamwork,Leadership,,
+2,0.018,Teamwork,Collaboration,,
+2,0.012,Teamwork,Project Management,,
+2,0.013,Teamwork,Communication Skills,,
+2,0.011,Teamwork,Communication skills,,
+2,0.017,Teamwork,Problemsolving,,
+2,0.014,Teamwork,Attention to Detail,,
+2,0.011,Teamwork,ProblemSolving,,
+2,0.011,Teamwork,Attention to detail,,
+2,0.011,Teamwork,Time Management,,
+2,0.012,Teamwork,Adaptability,,
+2,0.018,Docker,Linux,,
+2,0.027,Docker,Agile,,
+2,0.021,Docker,Software Engineering,,
+2,0.027,Docker,JavaScript,,
+2,0.022,Docker,DevOps,,
+2,0.019,Docker,Azure,,
+2,0.032,Docker,Go,,
+2,0.022,Docker,Git,,
+2,0.017,Docker,Cloud Computing,,
+2,0.024,Docker,Jenkins,,
+2,0.021,Docker,NoSQL,,
+2,0.015,Docker,Scala,,
+2,0.013,Docker,React,,
+2,0.018,Docker,Terraform,,
+2,0.016,Docker,Ansible,,
+2,0.017,Docker,GCP,,
+2,0.012,Docker,CI/CD,,
+2,0.017,Docker,Microservices,,
+2,0.019,Docker,TypeScript,,
+2,0.011,Docker,Angular,,
+2,0.014,Docker,Node.js,,
+2,0.011,Docker,RDBMS,,
+2,0.014,Docker,Open Source RDBMS,,
+2,0.012,Docker,HTML/CSS,,
+2,0.01,Docker,Agile practices,,
+2,0.013,Troubleshooting,Linux,,
+2,0.012,Troubleshooting,Problem Solving,,
+2,0.012,Troubleshooting,Collaboration,,
+2,0.014,Troubleshooting,Networking,,
+2,0.011,Troubleshooting,Documentation,,
+2,0.01,Troubleshooting,Security,,
+2,0.016,Linux,Agile,,
+2,0.012,Linux,Software Engineering,,
+2,0.01,Linux,JavaScript,,
+2,0.016,Linux,DevOps,,
+2,0.01,Linux,Azure,,
+2,0.011,Linux,Software Development,,
+2,0.021,Linux,C++,,
+2,0.017,Linux,Git,,
+2,0.013,Linux,Jenkins,,
+2,0.013,Linux,Networking,,
+2,0.011,Linux,Terraform,,
+2,0.013,Linux,Ansible,,
+2,0.03,Linux,Windows,,
+2,0.01,Linux,Bash,,
+2,0.021,Agile,Software Engineering,,
+2,0.021,Agile,JavaScript,,
+2,0.021,Agile,DevOps,,
+2,0.015,Agile,Azure,,
+2,0.011,Agile,Software Development,,
+2,0.018,Agile,Go,,
+2,0.015,Agile,Git,,
+2,0.012,Agile,Bachelor's Degree,,
+2,0.016,Agile,Cloud Computing,,
+2,0.012,Agile,Jenkins,,
+2,0.023,Agile,NoSQL,,
+2,0.017,Agile,Scala,,
+2,0.013,Agile,GCP,,
+2,0.011,Agile,Spark,,
+2,0.012,Agile,Microservices,,
+2,0.012,Agile,TypeScript,,
+2,0.01,Agile,Jira,,
+2,0.02,Agile,Scrum,,
+2,0.01,Agile,Node.js,,
+2,0.011,Agile,RDBMS,,
+2,0.012,Software Engineering,Problem Solving,,
+2,0.01,Software Engineering,Leadership,,
+2,0.017,Software Engineering,JavaScript,,
+2,0.013,Software Engineering,DevOps,,
+2,0.017,Software Engineering,Computer Science,,
+2,0.015,Software Engineering,Software Development,,
+2,0.015,Software Engineering,Go,,
+2,0.012,Software Engineering,C++,,
+2,0.011,Software Engineering,Machine Learning,,
+2,0.013,Software Engineering,Bachelor's Degree,,
+2,0.019,Software Engineering,Cloud Computing,,
+2,0.011,Software Engineering,NoSQL,,
+2,0.012,Software Engineering,TypeScript,,
+2,0.023,Data Analysis,Problem Solving,,
+2,0.011,Data Analysis,Leadership,,
+2,0.011,Data Analysis,Collaboration,,
+2,0.016,Data Analysis,Project Management,,
+2,0.012,Data Analysis,Communication Skills,,
+2,0.014,Data Analysis,Machine Learning,,
+2,0.019,Data Analysis,Tableau,,
+2,0.029,Data Analysis,Data Visualization,,
+2,0.01,Data Analysis,Analytical Skills,,
+2,0.015,Data Analysis,R,,
+2,0.014,Data Analysis,Reporting,,
+2,0.011,Data Analysis,Attention to Detail,,
+2,0.014,Data Analysis,Power BI,,
+2,0.01,Data Analysis,Excel,,
+2,0.014,Data Analysis,Business Intelligence,,
+2,0.011,Data Analysis,Data Warehousing,,
+2,0.01,Data Analysis,Data Modeling,,
+2,0.012,Data Analysis,Data Management,,
+2,0.012,Data Analysis,Data Mining,,
+2,0.021,Problem Solving,Leadership,,
+2,0.019,Problem Solving,Collaboration,,
+2,0.012,Problem Solving,Software Development,,
+2,0.018,Problem Solving,Project Management,,
+2,0.013,Problem Solving,Communication Skills,,
+2,0.012,Problem Solving,Data Visualization,,
+2,0.011,Problem Solving,Quality Assurance,,
+2,0.014,Problem Solving,Analytical Skills,,
+2,0.017,Problem Solving,Attention to Detail,,
+2,0.012,Problem Solving,Time Management,,
+2,0.012,Problem Solving,Critical Thinking,,
+2,0.017,Leadership,Collaboration,,
+2,0.013,Leadership,Project Management,,
+2,0.01,Leadership,Quality Assurance,,
+2,0.011,Leadership,Problemsolving,,
+2,0.015,Leadership,Mentoring,,
+2,0.011,JavaScript,DevOps,,
+2,0.02,JavaScript,Go,,
+2,0.013,JavaScript,Git,,
+2,0.01,JavaScript,Cloud Computing,,
+2,0.013,JavaScript,NoSQL,,
+2,0.024,JavaScript,React,,
+2,0.011,JavaScript,GCP,,
+2,0.012,JavaScript,Microservices,,
+2,0.03,JavaScript,TypeScript,,
+2,0.026,JavaScript,HTML,,
+2,0.026,JavaScript,CSS,,
+2,0.02,JavaScript,Angular,,
+2,0.011,JavaScript,Node.js,,
+2,0.011,JavaScript,Microsoft Azure,,
+2,0.016,JavaScript,HTML/CSS,,
+2,0.011,Collaboration,Problemsolving,,
+2,0.015,DevOps,Azure,,
+2,0.015,DevOps,Git,,
+2,0.012,DevOps,Cloud Computing,,
+2,0.018,DevOps,Jenkins,,
+2,0.013,DevOps,Automation,,
+2,0.016,DevOps,Terraform,,
+2,0.015,DevOps,Ansible,,
+2,0.017,DevOps,CI/CD,,
+2,0.011,DevOps,Microservices,,
+2,0.011,Computer Science,Software Development,,
+2,0.016,Computer Science,Engineering,,
+2,0.01,Computer Science,Computer Engineering,,
+2,0.01,Azure,Git,,
+2,0.01,Azure,Machine Learning,,
+2,0.012,Azure,Cloud Computing,,
+2,0.011,Azure,Scala,,
+2,0.026,Azure,GCP,,
+2,0.012,Software Development,C++,,
+2,0.011,Project Management,Communication Skills,,
+2,0.012,Go,Cloud Computing,,
+2,0.013,Go,NoSQL,,
+2,0.015,Go,Scala,,
+2,0.014,Go,GCP,,
+2,0.017,Go,TypeScript,,
+2,0.012,Go,Open Source RDBMS,,
+2,0.013,Go,HTML/CSS,,
+2,0.01,Go,Agile practices,,
+2,0.016,C++,C,,
+2,0.016,Communication Skills,Analytical Skills,,
+2,0.021,Git,Jenkins,,
+2,0.012,Git,Jira,,
+2,0.014,Machine Learning,Cloud Computing,,
+2,0.016,Machine Learning,Data Visualization,,
+2,0.012,Machine Learning,Spark,,
+2,0.013,Machine Learning,R,,
+2,0.01,Machine Learning,Data Engineering,,
+2,0.018,Machine Learning,Data Science,,
+2,0.015,Machine Learning,Artificial Intelligence,,
+2,0.013,Communication skills,Analytical skills,,
+2,0.014,Communication skills,Problemsolving skills,,
+2,0.015,Bachelor's Degree,Master's Degree,,
+2,0.013,Cloud Computing,NoSQL,,
+2,0.023,Tableau,Data Visualization,,
+2,0.02,Tableau,R,,
+2,0.02,Tableau,Power BI,,
+2,0.012,Tableau,Business Intelligence,,
+2,0.017,Data Visualization,R,,
+2,0.013,Data Visualization,Data Analytics,,
+2,0.015,Data Visualization,Power BI,,
+2,0.011,Data Visualization,Data Science,,
+2,0.017,Data Visualization,Business Intelligence,,
+2,0.012,Data Visualization,Data Warehousing,,
+2,0.011,Data Visualization,Data Modeling,,
+2,0.013,Data Visualization,Data Mining,,
+2,0.013,Jenkins,Terraform,,
+2,0.013,Jenkins,Ansible,,
+2,0.01,Jenkins,CI/CD,,
+2,0.016,NoSQL,Scala,,
+2,0.014,NoSQL,Spark,,
+2,0.011,NoSQL,Kafka,,
+2,0.013,NoSQL,Hadoop,,
+2,0.014,NoSQL,RDBMS,,
+2,0.021,Scala,Spark,,
+2,0.014,Scala,Kafka,,
+2,0.016,Scala,Hadoop,,
+2,0.011,Scala,Snowflake,,
+2,0.012,Scala,Hive,,
+2,0.012,React,TypeScript,,
+2,0.011,React,HTML,,
+2,0.012,React,CSS,,
+2,0.016,React,Angular,,
+2,0.022,Terraform,Ansible,,
+2,0.01,Terraform,CI/CD,,
+2,0.011,Terraform,Puppet,,
+2,0.014,Ansible,Puppet,,
+2,0.018,Spark,Kafka,,
+2,0.01,Spark,Data Engineering,,
+2,0.024,Spark,Hadoop,,
+2,0.013,Spark,Snowflake,,
+2,0.015,Spark,Hive,,
+2,0.014,Data analysis,Data visualization,,
+2,0.01,Analytical Skills,Attention to Detail,,
+2,0.012,R,Power BI,,
+2,0.011,R,Data Science,,
+2,0.011,R,Statistics,,
+2,0.011,TypeScript,Angular,,
+2,0.01,TypeScript,Microsoft Azure,,
+2,0.015,TypeScript,HTML/CSS,,
+2,0.03,HTML,CSS,,
+2,0.014,Kafka,Hadoop,,
+2,0.012,Kafka,Snowflake,,
+2,0.011,Kafka,Hive,,
+2,0.01,Kafka,Cassandra,,
+2,0.01,Hadoop,Snowflake,,
+2,0.015,Hadoop,Hive,,
+2,0.011,Analytical skills,Problemsolving skills,,
+2,0.016,Jira,Confluence,,
+2,0.011,Business Intelligence,Data Warehousing,,
+2,0.011,Data Warehousing,Data Modeling,,
+2,0.011,Snowflake,Redshift,,
+2,0.013,DNS,TCP/IP,,
+2,0.015,DNS,DHCP,,
+2,0.014,Integrity,Confidentiality,,
+2,0.013,Integrity,Availability,,
+2,0.013,Confidentiality,Availability,,
+2,0.012,Written Communication,Verbal Communication,,
+2,0.011,PyTorch,TensorFlow,,
+2,0.013,BGP,OSPF,,
+3,0.024,Python,SQL,Communication,
+3,0.062,Python,SQL,Java,
+3,0.058,Python,SQL,AWS,
+3,0.039,Python,SQL,Kubernetes,
+3,0.012,Python,SQL,Teamwork,
+3,0.039,Python,SQL,Docker,
+3,0.014,Python,SQL,Linux,
+3,0.032,Python,SQL,Agile,
+3,0.017,Python,SQL,Software Engineering,
+3,0.023,Python,SQL,Data Analysis,
+3,0.012,Python,SQL,Problem Solving,
+3,0.025,Python,SQL,JavaScript,
+3,0.012,Python,SQL,Collaboration,
+3,0.013,Python,SQL,DevOps,
+3,0.02,Python,SQL,Azure,
+3,0.031,Python,SQL,Go,
+3,0.012,Python,SQL,Git,
+3,0.023,Python,SQL,Machine Learning,
+3,0.012,Python,SQL,Bachelor's Degree,
+3,0.021,Python,SQL,Cloud Computing,
+3,0.028,Python,SQL,Tableau,
+3,0.024,Python,SQL,Data Visualization,
+3,0.01,Python,SQL,Jenkins,
+3,0.031,Python,SQL,NoSQL,
+3,0.029,Python,SQL,Scala,
+3,0.018,Python,SQL,GCP,
+3,0.024,Python,SQL,Spark,
+3,0.011,Python,SQL,Data analysis,
+3,0.01,Python,SQL,Microservices,
+3,0.03,Python,SQL,R,
+3,0.017,Python,SQL,TypeScript,
+3,0.015,Python,SQL,Kafka,
+3,0.013,Python,SQL,Data Analytics,
+3,0.015,Python,SQL,Power BI,
+3,0.017,Python,SQL,Data Engineering,
+3,0.017,Python,SQL,Data Science,
+3,0.019,Python,SQL,Hadoop,
+3,0.011,Python,SQL,MySQL,
+3,0.011,Python,SQL,Node.js,
+3,0.013,Python,SQL,Business Intelligence,
+3,0.013,Python,SQL,Data Warehousing,
+3,0.015,Python,SQL,Snowflake,
+3,0.013,Python,SQL,Microsoft Azure,
+3,0.014,Python,SQL,Statistics,
+3,0.01,Python,SQL,Cloud computing,
+3,0.01,Python,SQL,Data Modeling,
+3,0.012,Python,SQL,ETL,
+3,0.01,Python,SQL,Data visualization,
+3,0.011,Python,SQL,Hive,
+3,0.012,Python,SQL,RDBMS,
+3,0.015,Python,SQL,Open Source RDBMS,
+3,0.013,Python,SQL,HTML/CSS,
+3,0.01,Python,SQL,Agile practices,
+3,0.012,Python,Communication,Java,
+3,0.013,Python,Communication,AWS,
+3,0.016,Python,Communication,Teamwork,
+3,0.014,Python,Communication,Problem Solving,
+3,0.016,Python,Communication,Collaboration,
+3,0.059,Python,Java,AWS,
+3,0.039,Python,Java,Kubernetes,
+3,0.039,Python,Java,Docker,
+3,0.018,Python,Java,Linux,
+3,0.035,Python,Java,Agile,
+3,0.022,Python,Java,Software Engineering,
+3,0.029,Python,Java,JavaScript,
+3,0.014,Python,Java,DevOps,
+3,0.019,Python,Java,Azure,
+3,0.011,Python,Java,Software Development,
+3,0.035,Python,Java,Go,
+3,0.016,Python,Java,C++,
+3,0.012,Python,Java,Git,
+3,0.015,Python,Java,Machine Learning,
+3,0.014,Python,Java,Bachelor's Degree,
+3,0.019,Python,Java,Cloud Computing,
+3,0.013,Python,Java,Jenkins,
+3,0.028,Python,Java,NoSQL,
+3,0.035,Python,Java,Scala,
+3,0.019,Python,Java,GCP,
+3,0.02,Python,Java,Spark,
+3,0.013,Python,Java,Microservices,
+3,0.018,Python,Java,TypeScript,
+3,0.016,Python,Java,Kafka,
+3,0.017,Python,Java,Hadoop,
+3,0.013,Python,Java,MySQL,
+3,0.013,Python,Java,Node.js,
+3,0.012,Python,Java,Snowflake,
+3,0.014,Python,Java,Microsoft Azure,
+3,0.011,Python,Java,Cloud computing,
+3,0.011,Python,Java,Hive,
+3,0.013,Python,Java,RDBMS,
+3,0.015,Python,Java,Open Source RDBMS,
+3,0.012,Python,Java,HTML/CSS,
+3,0.011,Python,Java,Agile practices,
+3,0.01,Python,Java,NoSQL databases,
+3,0.044,Python,AWS,Kubernetes,
+3,0.042,Python,AWS,Docker,
+3,0.015,Python,AWS,Linux,
+3,0.035,Python,AWS,Agile,
+3,0.02,Python,AWS,Software Engineering,
+3,0.021,Python,AWS,JavaScript,
+3,0.018,Python,AWS,DevOps,
+3,0.034,Python,AWS,Azure,
+3,0.033,Python,AWS,Go,
+3,0.012,Python,AWS,Git,
+3,0.015,Python,AWS,Machine Learning,
+3,0.012,Python,AWS,Bachelor's Degree,
+3,0.022,Python,AWS,Cloud Computing,
+3,0.014,Python,AWS,Jenkins,
+3,0.027,Python,AWS,NoSQL,
+3,0.029,Python,AWS,Scala,
+3,0.014,Python,AWS,Terraform,
+3,0.01,Python,AWS,Ansible,
+3,0.029,Python,AWS,GCP,
+3,0.019,Python,AWS,Spark,
+3,0.012,Python,AWS,Microservices,
+3,0.016,Python,AWS,TypeScript,
+3,0.014,Python,AWS,Kafka,
+3,0.015,Python,AWS,Hadoop,
+3,0.011,Python,AWS,MySQL,
+3,0.012,Python,AWS,Node.js,
+3,0.013,Python,AWS,Snowflake,
+3,0.015,Python,AWS,Microsoft Azure,
+3,0.012,Python,AWS,Cloud computing,
+3,0.012,Python,AWS,RDBMS,
+3,0.013,Python,AWS,Open Source RDBMS,
+3,0.012,Python,AWS,Google Cloud,
+3,0.01,Python,AWS,HTML/CSS,
+3,0.056,Python,Kubernetes,Docker,
+3,0.014,Python,Kubernetes,Linux,
+3,0.019,Python,Kubernetes,Agile,
+3,0.015,Python,Kubernetes,Software Engineering,
+3,0.018,Python,Kubernetes,JavaScript,
+3,0.017,Python,Kubernetes,DevOps,
+3,0.015,Python,Kubernetes,Azure,
+3,0.03,Python,Kubernetes,Go,
+3,0.011,Python,Kubernetes,Git,
+3,0.014,Python,Kubernetes,Cloud Computing,
+3,0.014,Python,Kubernetes,Jenkins,
+3,0.018,Python,Kubernetes,NoSQL,
+3,0.014,Python,Kubernetes,Scala,
+3,0.016,Python,Kubernetes,Terraform,
+3,0.014,Python,Kubernetes,Ansible,
+3,0.015,Python,Kubernetes,GCP,
+3,0.01,Python,Kubernetes,Microservices,
+3,0.014,Python,Kubernetes,TypeScript,
+3,0.012,Python,Kubernetes,Open Source RDBMS,
+3,0.013,Python,Docker,Linux,
+3,0.02,Python,Docker,Agile,
+3,0.015,Python,Docker,Software Engineering,
+3,0.019,Python,Docker,JavaScript,
+3,0.013,Python,Docker,DevOps,
+3,0.014,Python,Docker,Azure,
+3,0.027,Python,Docker,Go,
+3,0.013,Python,Docker,Git,
+3,0.013,Python,Docker,Cloud Computing,
+3,0.016,Python,Docker,Jenkins,
+3,0.017,Python,Docker,NoSQL,
+3,0.014,Python,Docker,Scala,
+3,0.012,Python,Docker,Terraform,
+3,0.011,Python,Docker,Ansible,
+3,0.014,Python,Docker,GCP,
+3,0.014,Python,Docker,TypeScript,
+3,0.013,Python,Docker,Open Source RDBMS,
+3,0.01,Python,Linux,Agile,
+3,0.01,Python,Linux,DevOps,
+3,0.012,Python,Linux,C++,
+3,0.011,Python,Linux,Git,
+3,0.014,Python,Linux,Windows,
+3,0.012,Python,Agile,Software Engineering,
+3,0.013,Python,Agile,JavaScript,
+3,0.01,Python,Agile,DevOps,
+3,0.01,Python,Agile,Azure,
+3,0.016,Python,Agile,Go,
+3,0.012,Python,Agile,Cloud Computing,
+3,0.019,Python,Agile,NoSQL,
+3,0.016,Python,Agile,Scala,
+3,0.01,Python,Agile,GCP,
+3,0.01,Python,Agile,Spark,
+3,0.01,Python,Software Engineering,JavaScript,
+3,0.013,Python,Software Engineering,Go,
+3,0.012,Python,Software Engineering,Cloud Computing,
+3,0.011,Python,Data Analysis,Machine Learning,
+3,0.012,Python,Data Analysis,Tableau,
+3,0.016,Python,Data Analysis,Data Visualization,
+3,0.014,Python,Data Analysis,R,
+3,0.018,Python,JavaScript,Go,
+3,0.019,Python,JavaScript,TypeScript,
+3,0.012,Python,JavaScript,HTML/CSS,
+3,0.011,Python,DevOps,Jenkins,
+3,0.011,Python,DevOps,Ansible,
+3,0.011,Python,DevOps,CI/CD,
+3,0.011,Python,Azure,Scala,
+3,0.019,Python,Azure,GCP,
+3,0.01,Python,Go,Cloud Computing,
+3,0.012,Python,Go,NoSQL,
+3,0.015,Python,Go,Scala,
+3,0.013,Python,Go,GCP,
+3,0.016,Python,Go,TypeScript,
+3,0.012,Python,Go,Open Source RDBMS,
+3,0.012,Python,Go,HTML/CSS,
+3,0.011,Python,Git,Jenkins,
+3,0.011,Python,Machine Learning,Cloud Computing,
+3,0.013,Python,Machine Learning,Data Visualization,
+3,0.012,Python,Machine Learning,Spark,
+3,0.013,Python,Machine Learning,R,
+3,0.015,Python,Machine Learning,Data Science,
+3,0.01,Python,Machine Learning,Artificial Intelligence,
+3,0.011,Python,Cloud Computing,NoSQL,
+3,0.016,Python,Tableau,Data Visualization,
+3,0.019,Python,Tableau,R,
+3,0.013,Python,Tableau,Power BI,
+3,0.016,Python,Data Visualization,R,
+3,0.016,Python,NoSQL,Scala,
+3,0.013,Python,NoSQL,Spark,
+3,0.012,Python,NoSQL,Hadoop,
+3,0.012,Python,NoSQL,RDBMS,
+3,0.019,Python,Scala,Spark,
+3,0.012,Python,Scala,Kafka,
+3,0.014,Python,Scala,Hadoop,
+3,0.011,Python,Scala,Snowflake,
+3,0.011,Python,Scala,Hive,
+3,0.017,Python,Terraform,Ansible,
+3,0.011,Python,Ansible,Puppet,
+3,0.016,Python,Spark,Kafka,
+3,0.022,Python,Spark,Hadoop,
+3,0.013,Python,Spark,Snowflake,
+3,0.014,Python,Spark,Hive,
+3,0.012,Python,R,Power BI,
+3,0.011,Python,R,Data Science,
+3,0.01,Python,R,Statistics,
+3,0.012,Python,TypeScript,HTML/CSS,
+3,0.013,Python,Kafka,Hadoop,
+3,0.011,Python,Kafka,Snowflake,
+3,0.01,Python,Hadoop,Snowflake,
+3,0.014,Python,Hadoop,Hive,
+3,0.011,Python,Snowflake,Redshift,
+3,0.01,Python,PyTorch,TensorFlow,
+3,0.014,SQL,Communication,Teamwork,
+3,0.013,SQL,Communication,Data Analysis,
+3,0.015,SQL,Communication,Problem Solving,
+3,0.013,SQL,Communication,Collaboration,
+3,0.012,SQL,Communication,Tableau,
+3,0.011,SQL,Communication,Data Visualization,
+3,0.047,SQL,Java,AWS,
+3,0.036,SQL,Java,Kubernetes,
+3,0.036,SQL,Java,Docker,
+3,0.012,SQL,Java,Linux,
+3,0.03,SQL,Java,Agile,
+3,0.018,SQL,Java,Software Engineering,
+3,0.028,SQL,Java,JavaScript,
+3,0.011,SQL,Java,DevOps,
+3,0.014,SQL,Java,Azure,
+3,0.031,SQL,Java,Go,
+3,0.01,SQL,Java,Bachelor's Degree,
+3,0.017,SQL,Java,Cloud Computing,
+3,0.028,SQL,Java,NoSQL,
+3,0.027,SQL,Java,Scala,
+3,0.015,SQL,Java,GCP,
+3,0.013,SQL,Java,Spark,
+3,0.013,SQL,Java,Microservices,
+3,0.018,SQL,Java,TypeScript,
+3,0.011,SQL,Java,Kafka,
+3,0.01,SQL,Java,Angular,
+3,0.012,SQL,Java,Hadoop,
+3,0.011,SQL,Java,Node.js,
+3,0.011,SQL,Java,Microsoft Azure,
+3,0.01,SQL,Java,Cloud computing,
+3,0.012,SQL,Java,RDBMS,
+3,0.014,SQL,Java,Open Source RDBMS,
+3,0.013,SQL,Java,HTML/CSS,
+3,0.01,SQL,Java,Agile practices,
+3,0.034,SQL,AWS,Kubernetes,
+3,0.034,SQL,AWS,Docker,
+3,0.029,SQL,AWS,Agile,
+3,0.015,SQL,AWS,Software Engineering,
+3,0.021,SQL,AWS,JavaScript,
+3,0.02,SQL,AWS,Azure,
+3,0.028,SQL,AWS,Go,
+3,0.017,SQL,AWS,Cloud Computing,
+3,0.026,SQL,AWS,NoSQL,
+3,0.021,SQL,AWS,Scala,
+3,0.019,SQL,AWS,GCP,
+3,0.012,SQL,AWS,Spark,
+3,0.01,SQL,AWS,Microservices,
+3,0.015,SQL,AWS,TypeScript,
+3,0.01,SQL,AWS,Hadoop,
+3,0.011,SQL,AWS,Node.js,
+3,0.011,SQL,AWS,Microsoft Azure,
+3,0.011,SQL,AWS,RDBMS,
+3,0.013,SQL,AWS,Open Source RDBMS,
+3,0.012,SQL,AWS,HTML/CSS,
+3,0.042,SQL,Kubernetes,Docker,
+3,0.018,SQL,Kubernetes,Agile,
+3,0.013,SQL,Kubernetes,Software Engineering,
+3,0.018,SQL,Kubernetes,JavaScript,
+3,0.026,SQL,Kubernetes,Go,
+3,0.012,SQL,Kubernetes,Cloud Computing,
+3,0.02,SQL,Kubernetes,NoSQL,
+3,0.013,SQL,Kubernetes,Scala,
+3,0.011,SQL,Kubernetes,GCP,
+3,0.014,SQL,Kubernetes,TypeScript,
+3,0.01,SQL,Kubernetes,RDBMS,
+3,0.013,SQL,Kubernetes,Open Source RDBMS,
+3,0.011,SQL,Kubernetes,HTML/CSS,
+3,0.019,SQL,Docker,Agile,
+3,0.013,SQL,Docker,Software Engineering,
+3,0.018,SQL,Docker,JavaScript,
+3,0.026,SQL,Docker,Go,
+3,0.011,SQL,Docker,Cloud Computing,
+3,0.019,SQL,Docker,NoSQL,
+3,0.013,SQL,Docker,Scala,
+3,0.012,SQL,Docker,GCP,
+3,0.014,SQL,Docker,TypeScript,
+3,0.01,SQL,Docker,RDBMS,
+3,0.013,SQL,Docker,Open Source RDBMS,
+3,0.011,SQL,Docker,HTML/CSS,
+3,0.013,SQL,Agile,JavaScript,
+3,0.016,SQL,Agile,Go,
+3,0.011,SQL,Agile,Cloud Computing,
+3,0.019,SQL,Agile,NoSQL,
+3,0.013,SQL,Agile,Scala,
+3,0.011,SQL,Software Engineering,Go,
+3,0.011,SQL,Software Engineering,Cloud Computing,
+3,0.016,SQL,Data Analysis,Tableau,
+3,0.021,SQL,Data Analysis,Data Visualization,
+3,0.013,SQL,Data Analysis,R,
+3,0.011,SQL,Data Analysis,Power BI,
+3,0.011,SQL,Data Analysis,Business Intelligence,
+3,0.017,SQL,JavaScript,Go,
+3,0.011,SQL,JavaScript,NoSQL,
+3,0.019,SQL,JavaScript,TypeScript,
+3,0.01,SQL,JavaScript,HTML,
+3,0.014,SQL,JavaScript,HTML/CSS,
+3,0.012,SQL,Azure,GCP,
+3,0.013,SQL,Go,NoSQL,
+3,0.013,SQL,Go,Scala,
+3,0.011,SQL,Go,GCP,
+3,0.015,SQL,Go,TypeScript,
+3,0.012,SQL,Go,Open Source RDBMS,
+3,0.013,SQL,Go,HTML/CSS,
+3,0.012,SQL,Machine Learning,Data Visualization,
+3,0.01,SQL,Machine Learning,R,
+3,0.011,SQL,Machine Learning,Data Science,
+3,0.011,SQL,Cloud Computing,NoSQL,
+3,0.02,SQL,Tableau,Data Visualization,
+3,0.018,SQL,Tableau,R,
+3,0.016,SQL,Tableau,Power BI,
+3,0.01,SQL,Tableau,Business Intelligence,
+3,0.015,SQL,Data Visualization,R,
+3,0.012,SQL,Data Visualization,Power BI,
+3,0.013,SQL,Data Visualization,Business Intelligence,
+3,0.01,SQL,Data Visualization,Data Mining,
+3,0.012,SQL,NoSQL,Scala,
+3,0.011,SQL,NoSQL,RDBMS,
+3,0.012,SQL,Scala,Spark,
+3,0.01,SQL,Scala,Hadoop,
+3,0.011,SQL,Spark,Kafka,
+3,0.016,SQL,Spark,Hadoop,
+3,0.01,SQL,R,Power BI,
+3,0.013,SQL,TypeScript,HTML/CSS,
+3,0.011,SQL,HTML,CSS,
+3,0.011,Communication,Teamwork,Data Analysis,
+3,0.021,Communication,Teamwork,Problem Solving,
+3,0.02,Communication,Teamwork,Leadership,
+3,0.012,Communication,Teamwork,Collaboration,
+3,0.013,Communication,Teamwork,Problemsolving,
+3,0.016,Communication,Data Analysis,Problem Solving,
+3,0.017,Communication,Problem Solving,Leadership,
+3,0.014,Communication,Problem Solving,Collaboration,
+3,0.012,Communication,Problem Solving,Project Management,
+3,0.011,Communication,Problem Solving,Attention to Detail,
+3,0.012,Communication,Leadership,Collaboration,
+3,0.039,Java,AWS,Kubernetes,
+3,0.038,Java,AWS,Docker,
+3,0.034,Java,AWS,Agile,
+3,0.02,Java,AWS,Software Engineering,
+3,0.026,Java,AWS,JavaScript,
+3,0.011,Java,AWS,DevOps,
+3,0.022,Java,AWS,Azure,
+3,0.032,Java,AWS,Go,
+3,0.013,Java,AWS,Bachelor's Degree,
+3,0.019,Java,AWS,Cloud Computing,
+3,0.01,Java,AWS,Jenkins,
+3,0.025,Java,AWS,NoSQL,
+3,0.026,Java,AWS,Scala,
+3,0.011,Java,AWS,React,
+3,0.021,Java,AWS,GCP,
+3,0.013,Java,AWS,Spark,
+3,0.015,Java,AWS,Microservices,
+3,0.019,Java,AWS,TypeScript,
+3,0.012,Java,AWS,Kafka,
+3,0.011,Java,AWS,Angular,
+3,0.011,Java,AWS,Hadoop,
+3,0.012,Java,AWS,Node.js,
+3,0.016,Java,AWS,Microsoft Azure,
+3,0.012,Java,AWS,Cloud computing,
+3,0.012,Java,AWS,RDBMS,
+3,0.014,Java,AWS,Open Source RDBMS,
+3,0.012,Java,AWS,Google Cloud,
+3,0.012,Java,AWS,HTML/CSS,
+3,0.011,Java,AWS,Agile practices,
+3,0.046,Java,Kubernetes,Docker,
+3,0.019,Java,Kubernetes,Agile,
+3,0.015,Java,Kubernetes,Software Engineering,
+3,0.02,Java,Kubernetes,JavaScript,
+3,0.028,Java,Kubernetes,Go,
+3,0.012,Java,Kubernetes,Cloud Computing,
+3,0.018,Java,Kubernetes,NoSQL,
+3,0.014,Java,Kubernetes,Scala,
+3,0.011,Java,Kubernetes,GCP,
+3,0.013,Java,Kubernetes,Microservices,
+3,0.014,Java,Kubernetes,TypeScript,
+3,0.011,Java,Kubernetes,RDBMS,
+3,0.013,Java,Kubernetes,Open Source RDBMS,
+3,0.011,Java,Kubernetes,HTML/CSS,
+3,0.02,Java,Docker,Agile,
+3,0.015,Java,Docker,Software Engineering,
+3,0.02,Java,Docker,JavaScript,
+3,0.028,Java,Docker,Go,
+3,0.011,Java,Docker,Cloud Computing,
+3,0.011,Java,Docker,Jenkins,
+3,0.018,Java,Docker,NoSQL,
+3,0.014,Java,Docker,Scala,
+3,0.011,Java,Docker,GCP,
+3,0.012,Java,Docker,Microservices,
+3,0.015,Java,Docker,TypeScript,
+3,0.01,Java,Docker,Node.js,
+3,0.011,Java,Docker,RDBMS,
+3,0.013,Java,Docker,Open Source RDBMS,
+3,0.011,Java,Docker,HTML/CSS,
+3,0.013,Java,Agile,Software Engineering,
+3,0.016,Java,Agile,JavaScript,
+3,0.016,Java,Agile,Go,
+3,0.011,Java,Agile,Cloud Computing,
+3,0.019,Java,Agile,NoSQL,
+3,0.016,Java,Agile,Scala,
+3,0.01,Java,Agile,TypeScript,
+3,0.012,Java,Software Engineering,JavaScript,
+3,0.012,Java,Software Engineering,Go,
+3,0.013,Java,Software Engineering,Cloud Computing,
+3,0.018,Java,JavaScript,Go,
+3,0.011,Java,JavaScript,NoSQL,
+3,0.013,Java,JavaScript,React,
+3,0.022,Java,JavaScript,TypeScript,
+3,0.013,Java,JavaScript,HTML,
+3,0.012,Java,JavaScript,CSS,
+3,0.014,Java,JavaScript,Angular,
+3,0.01,Java,JavaScript,Microsoft Azure,
+3,0.015,Java,JavaScript,HTML/CSS,
+3,0.014,Java,Azure,GCP,
+3,0.01,Java,Go,Cloud Computing,
+3,0.013,Java,Go,NoSQL,
+3,0.015,Java,Go,Scala,
+3,0.011,Java,Go,GCP,
+3,0.015,Java,Go,TypeScript,
+3,0.011,Java,Go,Open Source RDBMS,
+3,0.012,Java,Go,HTML/CSS,
+3,0.014,Java,NoSQL,Scala,
+3,0.013,Java,NoSQL,RDBMS,
+3,0.016,Java,Scala,Spark,
+3,0.012,Java,Scala,Kafka,
+3,0.013,Java,Scala,Hadoop,
+3,0.011,Java,React,Angular,
+3,0.013,Java,Spark,Kafka,
+3,0.015,Java,Spark,Hadoop,
+3,0.014,Java,TypeScript,HTML/CSS,
+3,0.013,Java,HTML,CSS,
+3,0.011,Java,Kafka,Hadoop,
+3,0.011,Java,Hadoop,Hive,
+3,0.053,AWS,Kubernetes,Docker,
+3,0.01,AWS,Kubernetes,Linux,
+3,0.021,AWS,Kubernetes,Agile,
+3,0.015,AWS,Kubernetes,Software Engineering,
+3,0.017,AWS,Kubernetes,JavaScript,
+3,0.015,AWS,Kubernetes,DevOps,
+3,0.018,AWS,Kubernetes,Azure,
+3,0.028,AWS,Kubernetes,Go,
+3,0.014,AWS,Kubernetes,Cloud Computing,
+3,0.012,AWS,Kubernetes,Jenkins,
+3,0.019,AWS,Kubernetes,NoSQL,
+3,0.013,AWS,Kubernetes,Scala,
+3,0.013,AWS,Kubernetes,Terraform,
+3,0.017,AWS,Kubernetes,GCP,
+3,0.012,AWS,Kubernetes,Microservices,
+3,0.014,AWS,Kubernetes,TypeScript,
+3,0.01,AWS,Kubernetes,RDBMS,
+3,0.012,AWS,Kubernetes,Open Source RDBMS,
+3,0.022,AWS,Docker,Agile,
+3,0.015,AWS,Docker,Software Engineering,
+3,0.018,AWS,Docker,JavaScript,
+3,0.013,AWS,Docker,DevOps,
+3,0.017,AWS,Docker,Azure,
+3,0.027,AWS,Docker,Go,
+3,0.011,AWS,Docker,Git,
+3,0.013,AWS,Docker,Cloud Computing,
+3,0.013,AWS,Docker,Jenkins,
+3,0.018,AWS,Docker,NoSQL,
+3,0.013,AWS,Docker,Scala,
+3,0.011,AWS,Docker,Terraform,
+3,0.015,AWS,Docker,GCP,
+3,0.012,AWS,Docker,Microservices,
+3,0.015,AWS,Docker,TypeScript,
+3,0.011,AWS,Docker,Node.js,
+3,0.01,AWS,Docker,RDBMS,
+3,0.012,AWS,Docker,Open Source RDBMS,
+3,0.013,AWS,Agile,Software Engineering,
+3,0.014,AWS,Agile,JavaScript,
+3,0.013,AWS,Agile,Azure,
+3,0.017,AWS,Agile,Go,
+3,0.013,AWS,Agile,Cloud Computing,
+3,0.019,AWS,Agile,NoSQL,
+3,0.014,AWS,Agile,Scala,
+3,0.012,AWS,Agile,GCP,
+3,0.011,AWS,Agile,TypeScript,
+3,0.01,AWS,Software Engineering,JavaScript,
+3,0.012,AWS,Software Engineering,Go,
+3,0.014,AWS,Software Engineering,Cloud Computing,
+3,0.015,AWS,JavaScript,Go,
+3,0.01,AWS,JavaScript,GCP,
+3,0.021,AWS,JavaScript,TypeScript,
+3,0.01,AWS,JavaScript,Microsoft Azure,
+3,0.013,AWS,JavaScript,HTML/CSS,
+3,0.012,AWS,DevOps,Azure,
+3,0.01,AWS,Azure,Cloud Computing,
+3,0.01,AWS,Azure,Scala,
+3,0.025,AWS,Azure,GCP,
+3,0.01,AWS,Go,Cloud Computing,
+3,0.012,AWS,Go,NoSQL,
+3,0.013,AWS,Go,Scala,
+3,0.013,AWS,Go,GCP,
+3,0.014,AWS,Go,TypeScript,
+3,0.01,AWS,Go,Open Source RDBMS,
+3,0.01,AWS,Go,HTML/CSS,
+3,0.013,AWS,NoSQL,Scala,
+3,0.012,AWS,NoSQL,RDBMS,
+3,0.012,AWS,Scala,Spark,
+3,0.01,AWS,Spark,Kafka,
+3,0.013,AWS,Spark,Hadoop,
+3,0.012,AWS,TypeScript,HTML/CSS,
+3,0.014,Kubernetes,Docker,Linux,
+3,0.023,Kubernetes,Docker,Agile,
+3,0.018,Kubernetes,Docker,Software Engineering,
+3,0.022,Kubernetes,Docker,JavaScript,
+3,0.018,Kubernetes,Docker,DevOps,
+3,0.017,Kubernetes,Docker,Azure,
+3,0.031,Kubernetes,Docker,Go,
+3,0.015,Kubernetes,Docker,Git,
+3,0.016,Kubernetes,Docker,Cloud Computing,
+3,0.018,Kubernetes,Docker,Jenkins,
+3,0.02,Kubernetes,Docker,NoSQL,
+3,0.014,Kubernetes,Docker,Scala,
+3,0.01,Kubernetes,Docker,React,
+3,0.016,Kubernetes,Docker,Terraform,
+3,0.014,Kubernetes,Docker,Ansible,
+3,0.015,Kubernetes,Docker,GCP,
+3,0.015,Kubernetes,Docker,Microservices,
+3,0.017,Kubernetes,Docker,TypeScript,
+3,0.011,Kubernetes,Docker,Node.js,
+3,0.011,Kubernetes,Docker,RDBMS,
+3,0.014,Kubernetes,Docker,Open Source RDBMS,
+3,0.012,Kubernetes,Docker,HTML/CSS,
+3,0.013,Kubernetes,Agile,Go,
+3,0.013,Kubernetes,Agile,NoSQL,
+3,0.01,Kubernetes,Software Engineering,Go,
+3,0.013,Kubernetes,JavaScript,Go,
+3,0.016,Kubernetes,JavaScript,TypeScript,
+3,0.011,Kubernetes,JavaScript,HTML/CSS,
+3,0.011,Kubernetes,DevOps,Terraform,
+3,0.01,Kubernetes,DevOps,Ansible,
+3,0.011,Kubernetes,Azure,GCP,
+3,0.012,Kubernetes,Go,NoSQL,
+3,0.011,Kubernetes,Go,Scala,
+3,0.012,Kubernetes,Go,TypeScript,
+3,0.012,Kubernetes,Go,Open Source RDBMS,
+3,0.014,Kubernetes,Terraform,Ansible,
+3,0.01,Kubernetes,TypeScript,HTML/CSS,
+3,0.013,Docker,Agile,Go,
+3,0.013,Docker,Agile,NoSQL,
+3,0.013,Docker,JavaScript,Go,
+3,0.016,Docker,JavaScript,TypeScript,
+3,0.011,Docker,JavaScript,HTML/CSS,
+3,0.012,Docker,Go,NoSQL,
+3,0.011,Docker,Go,Scala,
+3,0.012,Docker,Go,TypeScript,
+3,0.012,Docker,Go,Open Source RDBMS,
+3,0.011,Docker,Git,Jenkins,
+3,0.01,Docker,Terraform,Ansible,
+3,0.011,Docker,TypeScript,HTML/CSS,
+3,0.011,Agile,JavaScript,TypeScript,
+3,0.014,Data Analysis,Tableau,Data Visualization,
+3,0.011,Data Analysis,Data Visualization,R,
+3,0.01,Data Analysis,Data Visualization,Power BI,
+3,0.016,JavaScript,Go,TypeScript,
+3,0.012,JavaScript,Go,HTML/CSS,
+3,0.012,JavaScript,React,Angular,
+3,0.01,JavaScript,TypeScript,Microsoft Azure,
+3,0.015,JavaScript,TypeScript,HTML/CSS,
+3,0.024,JavaScript,HTML,CSS,
+3,0.011,Go,TypeScript,HTML/CSS,
+3,0.011,Tableau,Data Visualization,R,
+3,0.011,Tableau,Data Visualization,Power BI,
+3,0.01,Tableau,R,Power BI,
+3,0.011,NoSQL,Spark,Hadoop,
+3,0.011,Scala,Spark,Kafka,
+3,0.014,Scala,Spark,Hadoop,
+3,0.01,Scala,Spark,Hive,
+3,0.01,Scala,Kafka,Hadoop,
+3,0.01,Scala,Hadoop,Hive,
+3,0.013,Spark,Kafka,Hadoop,
+3,0.01,Spark,Kafka,Snowflake,
+3,0.013,Spark,Hadoop,Hive,
+3,0.013,Integrity,Confidentiality,Availability,
+4,0.041,Python,SQL,Java,AWS
+4,0.031,Python,SQL,Java,Kubernetes
+4,0.031,Python,SQL,Java,Docker
+4,0.024,Python,SQL,Java,Agile
+4,0.014,Python,SQL,Java,Software Engineering
+4,0.02,Python,SQL,Java,JavaScript
+4,0.012,Python,SQL,Java,Azure
+4,0.029,Python,SQL,Java,Go
+4,0.014,Python,SQL,Java,Cloud Computing
+4,0.024,Python,SQL,Java,NoSQL
+4,0.025,Python,SQL,Java,Scala
+4,0.013,Python,SQL,Java,GCP
+4,0.012,Python,SQL,Java,Spark
+4,0.015,Python,SQL,Java,TypeScript
+4,0.011,Python,SQL,Java,Hadoop
+4,0.01,Python,SQL,Java,Microsoft Azure
+4,0.011,Python,SQL,Java,RDBMS
+4,0.013,Python,SQL,Java,Open Source RDBMS
+4,0.012,Python,SQL,Java,HTML/CSS
+4,0.029,Python,SQL,AWS,Kubernetes
+4,0.03,Python,SQL,AWS,Docker
+4,0.024,Python,SQL,AWS,Agile
+4,0.013,Python,SQL,AWS,Software Engineering
+4,0.017,Python,SQL,AWS,JavaScript
+4,0.017,Python,SQL,AWS,Azure
+4,0.026,Python,SQL,AWS,Go
+4,0.015,Python,SQL,AWS,Cloud Computing
+4,0.022,Python,SQL,AWS,NoSQL
+4,0.02,Python,SQL,AWS,Scala
+4,0.017,Python,SQL,AWS,GCP
+4,0.012,Python,SQL,AWS,Spark
+4,0.013,Python,SQL,AWS,TypeScript
+4,0.011,Python,SQL,AWS,Microsoft Azure
+4,0.01,Python,SQL,AWS,RDBMS
+4,0.012,Python,SQL,AWS,Open Source RDBMS
+4,0.036,Python,SQL,Kubernetes,Docker
+4,0.016,Python,SQL,Kubernetes,Agile
+4,0.011,Python,SQL,Kubernetes,Software Engineering
+4,0.015,Python,SQL,Kubernetes,JavaScript
+4,0.024,Python,SQL,Kubernetes,Go
+4,0.01,Python,SQL,Kubernetes,Cloud Computing
+4,0.017,Python,SQL,Kubernetes,NoSQL
+4,0.013,Python,SQL,Kubernetes,Scala
+4,0.011,Python,SQL,Kubernetes,GCP
+4,0.013,Python,SQL,Kubernetes,TypeScript
+4,0.012,Python,SQL,Kubernetes,Open Source RDBMS
+4,0.017,Python,SQL,Docker,Agile
+4,0.011,Python,SQL,Docker,Software Engineering
+4,0.015,Python,SQL,Docker,JavaScript
+4,0.024,Python,SQL,Docker,Go
+4,0.016,Python,SQL,Docker,NoSQL
+4,0.013,Python,SQL,Docker,Scala
+4,0.011,Python,SQL,Docker,GCP
+4,0.013,Python,SQL,Docker,TypeScript
+4,0.012,Python,SQL,Docker,Open Source RDBMS
+4,0.015,Python,SQL,Agile,Go
+4,0.016,Python,SQL,Agile,NoSQL
+4,0.012,Python,SQL,Agile,Scala
+4,0.01,Python,SQL,Software Engineering,Go
+4,0.011,Python,SQL,Data Analysis,Tableau
+4,0.014,Python,SQL,Data Analysis,Data Visualization
+4,0.012,Python,SQL,Data Analysis,R
+4,0.015,Python,SQL,JavaScript,Go
+4,0.016,Python,SQL,JavaScript,TypeScript
+4,0.012,Python,SQL,JavaScript,HTML/CSS
+4,0.011,Python,SQL,Azure,GCP
+4,0.012,Python,SQL,Go,NoSQL
+4,0.013,Python,SQL,Go,Scala
+4,0.011,Python,SQL,Go,GCP
+4,0.015,Python,SQL,Go,TypeScript
+4,0.011,Python,SQL,Go,Open Source RDBMS
+4,0.012,Python,SQL,Go,HTML/CSS
+4,0.01,Python,SQL,Machine Learning,Data Visualization
+4,0.01,Python,SQL,Machine Learning,R
+4,0.014,Python,SQL,Tableau,Data Visualization
+4,0.017,Python,SQL,Tableau,R
+4,0.012,Python,SQL,Tableau,Power BI
+4,0.015,Python,SQL,Data Visualization,R
+4,0.012,Python,SQL,NoSQL,Scala
+4,0.01,Python,SQL,Scala,Spark
+4,0.01,Python,SQL,Spark,Kafka
+4,0.015,Python,SQL,Spark,Hadoop
+4,0.01,Python,SQL,R,Power BI
+4,0.012,Python,SQL,TypeScript,HTML/CSS
+4,0.03,Python,Java,AWS,Kubernetes
+4,0.03,Python,Java,AWS,Docker
+4,0.027,Python,Java,AWS,Agile
+4,0.015,Python,Java,AWS,Software Engineering
+4,0.018,Python,Java,AWS,JavaScript
+4,0.018,Python,Java,AWS,Azure
+4,0.028,Python,Java,AWS,Go
+4,0.015,Python,Java,AWS,Cloud Computing
+4,0.022,Python,Java,AWS,NoSQL
+4,0.025,Python,Java,AWS,Scala
+4,0.018,Python,Java,AWS,GCP
+4,0.013,Python,Java,AWS,Spark
+4,0.014,Python,Java,AWS,TypeScript
+4,0.01,Python,Java,AWS,Kafka
+4,0.01,Python,Java,AWS,Hadoop
+4,0.01,Python,Java,AWS,Node.js
+4,0.013,Python,Java,AWS,Microsoft Azure
+4,0.011,Python,Java,AWS,RDBMS
+4,0.012,Python,Java,AWS,Open Source RDBMS
+4,0.035,Python,Java,Kubernetes,Docker
+4,0.016,Python,Java,Kubernetes,Agile
+4,0.011,Python,Java,Kubernetes,Software Engineering
+4,0.015,Python,Java,Kubernetes,JavaScript
+4,0.025,Python,Java,Kubernetes,Go
+4,0.01,Python,Java,Kubernetes,Cloud Computing
+4,0.015,Python,Java,Kubernetes,NoSQL
+4,0.014,Python,Java,Kubernetes,Scala
+4,0.012,Python,Java,Kubernetes,TypeScript
+4,0.011,Python,Java,Kubernetes,Open Source RDBMS
+4,0.017,Python,Java,Docker,Agile
+4,0.011,Python,Java,Docker,Software Engineering
+4,0.015,Python,Java,Docker,JavaScript
+4,0.024,Python,Java,Docker,Go
+4,0.015,Python,Java,Docker,NoSQL
+4,0.014,Python,Java,Docker,Scala
+4,0.012,Python,Java,Docker,TypeScript
+4,0.011,Python,Java,Docker,Open Source RDBMS
+4,0.011,Python,Java,Agile,JavaScript
+4,0.015,Python,Java,Agile,Go
+4,0.016,Python,Java,Agile,NoSQL
+4,0.015,Python,Java,Agile,Scala
+4,0.011,Python,Java,Software Engineering,Go
+4,0.016,Python,Java,JavaScript,Go
+4,0.016,Python,Java,JavaScript,TypeScript
+4,0.011,Python,Java,JavaScript,HTML/CSS
+4,0.012,Python,Java,Azure,GCP
+4,0.012,Python,Java,Go,NoSQL
+4,0.015,Python,Java,Go,Scala
+4,0.011,Python,Java,Go,GCP
+4,0.015,Python,Java,Go,TypeScript
+4,0.011,Python,Java,Go,Open Source RDBMS
+4,0.011,Python,Java,Go,HTML/CSS
+4,0.014,Python,Java,NoSQL,Scala
+4,0.011,Python,Java,NoSQL,RDBMS
+4,0.015,Python,Java,Scala,Spark
+4,0.011,Python,Java,Scala,Kafka
+4,0.012,Python,Java,Scala,Hadoop
+4,0.012,Python,Java,Spark,Kafka
+4,0.014,Python,Java,Spark,Hadoop
+4,0.011,Python,Java,TypeScript,HTML/CSS
+4,0.01,Python,Java,Kafka,Hadoop
+4,0.01,Python,Java,Hadoop,Hive
+4,0.038,Python,AWS,Kubernetes,Docker
+4,0.017,Python,AWS,Kubernetes,Agile
+4,0.012,Python,AWS,Kubernetes,Software Engineering
+4,0.013,Python,AWS,Kubernetes,JavaScript
+4,0.011,Python,AWS,Kubernetes,DevOps
+4,0.014,Python,AWS,Kubernetes,Azure
+4,0.025,Python,AWS,Kubernetes,Go
+4,0.011,Python,AWS,Kubernetes,Cloud Computing
+4,0.016,Python,AWS,Kubernetes,NoSQL
+4,0.012,Python,AWS,Kubernetes,Scala
+4,0.014,Python,AWS,Kubernetes,GCP
+4,0.011,Python,AWS,Kubernetes,TypeScript
+4,0.01,Python,AWS,Kubernetes,Open Source RDBMS
+4,0.018,Python,AWS,Docker,Agile
+4,0.012,Python,AWS,Docker,Software Engineering
+4,0.013,Python,AWS,Docker,JavaScript
+4,0.013,Python,AWS,Docker,Azure
+4,0.024,Python,AWS,Docker,Go
+4,0.011,Python,AWS,Docker,Cloud Computing
+4,0.015,Python,AWS,Docker,NoSQL
+4,0.012,Python,AWS,Docker,Scala
+4,0.013,Python,AWS,Docker,GCP
+4,0.011,Python,AWS,Docker,TypeScript
+4,0.011,Python,AWS,Docker,Open Source RDBMS
+4,0.01,Python,AWS,Agile,Azure
+4,0.016,Python,AWS,Agile,Go
+4,0.016,Python,AWS,Agile,NoSQL
+4,0.014,Python,AWS,Agile,Scala
+4,0.01,Python,AWS,Agile,GCP
+4,0.011,Python,AWS,Software Engineering,Go
+4,0.01,Python,AWS,Software Engineering,Cloud Computing
+4,0.014,Python,AWS,JavaScript,Go
+4,0.015,Python,AWS,JavaScript,TypeScript
+4,0.01,Python,AWS,Azure,Scala
+4,0.019,Python,AWS,Azure,GCP
+4,0.012,Python,AWS,Go,NoSQL
+4,0.013,Python,AWS,Go,Scala
+4,0.013,Python,AWS,Go,GCP
+4,0.014,Python,AWS,Go,TypeScript
+4,0.013,Python,AWS,NoSQL,Scala
+4,0.01,Python,AWS,NoSQL,RDBMS
+4,0.012,Python,AWS,Scala,Spark
+4,0.013,Python,AWS,Spark,Hadoop
+4,0.01,Python,Kubernetes,Docker,Linux
+4,0.018,Python,Kubernetes,Docker,Agile
+4,0.014,Python,Kubernetes,Docker,Software Engineering
+4,0.017,Python,Kubernetes,Docker,JavaScript
+4,0.012,Python,Kubernetes,Docker,DevOps
+4,0.012,Python,Kubernetes,Docker,Azure
+4,0.027,Python,Kubernetes,Docker,Go
+4,0.013,Python,Kubernetes,Docker,Cloud Computing
+4,0.012,Python,Kubernetes,Docker,Jenkins
+4,0.016,Python,Kubernetes,Docker,NoSQL
+4,0.013,Python,Kubernetes,Docker,Scala
+4,0.011,Python,Kubernetes,Docker,Terraform
+4,0.013,Python,Kubernetes,Docker,GCP
+4,0.014,Python,Kubernetes,Docker,TypeScript
+4,0.012,Python,Kubernetes,Docker,Open Source RDBMS
+4,0.013,Python,Kubernetes,Agile,Go
+4,0.011,Python,Kubernetes,Agile,NoSQL
+4,0.012,Python,Kubernetes,JavaScript,Go
+4,0.013,Python,Kubernetes,JavaScript,TypeScript
+4,0.012,Python,Kubernetes,Go,NoSQL
+4,0.011,Python,Kubernetes,Go,Scala
+4,0.012,Python,Kubernetes,Go,TypeScript
+4,0.011,Python,Kubernetes,Go,Open Source RDBMS
+4,0.01,Python,Kubernetes,Terraform,Ansible
+4,0.013,Python,Docker,Agile,Go
+4,0.011,Python,Docker,Agile,NoSQL
+4,0.012,Python,Docker,JavaScript,Go
+4,0.013,Python,Docker,JavaScript,TypeScript
+4,0.011,Python,Docker,Go,NoSQL
+4,0.011,Python,Docker,Go,Scala
+4,0.012,Python,Docker,Go,TypeScript
+4,0.011,Python,Docker,Go,Open Source RDBMS
+4,0.01,Python,Data Analysis,Data Visualization,R
+4,0.016,Python,JavaScript,Go,TypeScript
+4,0.011,Python,JavaScript,Go,HTML/CSS
+4,0.012,Python,JavaScript,TypeScript,HTML/CSS
+4,0.011,Python,Go,TypeScript,HTML/CSS
+4,0.011,Python,Tableau,Data Visualization,R
+4,0.011,Python,NoSQL,Spark,Hadoop
+4,0.01,Python,Scala,Spark,Kafka
+4,0.013,Python,Scala,Spark,Hadoop
+4,0.01,Python,Scala,Kafka,Hadoop
+4,0.012,Python,Spark,Kafka,Hadoop
+4,0.01,Python,Spark,Kafka,Snowflake
+4,0.012,Python,Spark,Hadoop,Hive
+4,0.029,SQL,Java,AWS,Kubernetes
+4,0.029,SQL,Java,AWS,Docker
+4,0.024,SQL,Java,AWS,Agile
+4,0.013,SQL,Java,AWS,Software Engineering
+4,0.018,SQL,Java,AWS,JavaScript
+4,0.013,SQL,Java,AWS,Azure
+4,0.027,SQL,Java,AWS,Go
+4,0.013,SQL,Java,AWS,Cloud Computing
+4,0.022,SQL,Java,AWS,NoSQL
+4,0.019,SQL,Java,AWS,Scala
+4,0.014,SQL,Java,AWS,GCP
+4,0.014,SQL,Java,AWS,TypeScript
+4,0.01,SQL,Java,AWS,Microsoft Azure
+4,0.011,SQL,Java,AWS,RDBMS
+4,0.012,SQL,Java,AWS,Open Source RDBMS
+4,0.011,SQL,Java,AWS,HTML/CSS
+4,0.033,SQL,Java,Kubernetes,Docker
+4,0.016,SQL,Java,Kubernetes,Agile
+4,0.011,SQL,Java,Kubernetes,Software Engineering
+4,0.016,SQL,Java,Kubernetes,JavaScript
+4,0.024,SQL,Java,Kubernetes,Go
+4,0.01,SQL,Java,Kubernetes,Cloud Computing
+4,0.017,SQL,Java,Kubernetes,NoSQL
+4,0.013,SQL,Java,Kubernetes,Scala
+4,0.013,SQL,Java,Kubernetes,TypeScript
+4,0.01,SQL,Java,Kubernetes,RDBMS
+4,0.012,SQL,Java,Kubernetes,Open Source RDBMS
+4,0.01,SQL,Java,Kubernetes,HTML/CSS
+4,0.017,SQL,Java,Docker,Agile
+4,0.011,SQL,Java,Docker,Software Engineering
+4,0.016,SQL,Java,Docker,JavaScript
+4,0.024,SQL,Java,Docker,Go
+4,0.017,SQL,Java,Docker,NoSQL
+4,0.013,SQL,Java,Docker,Scala
+4,0.013,SQL,Java,Docker,TypeScript
+4,0.01,SQL,Java,Docker,RDBMS
+4,0.012,SQL,Java,Docker,Open Source RDBMS
+4,0.01,SQL,Java,Docker,HTML/CSS
+4,0.011,SQL,Java,Agile,JavaScript
+4,0.015,SQL,Java,Agile,Go
+4,0.016,SQL,Java,Agile,NoSQL
+4,0.012,SQL,Java,Agile,Scala
+4,0.011,SQL,Java,Software Engineering,Go
+4,0.016,SQL,Java,JavaScript,Go
+4,0.017,SQL,Java,JavaScript,TypeScript
+4,0.013,SQL,Java,JavaScript,HTML/CSS
+4,0.012,SQL,Java,Go,NoSQL
+4,0.013,SQL,Java,Go,Scala
+4,0.014,SQL,Java,Go,TypeScript
+4,0.011,SQL,Java,Go,Open Source RDBMS
+4,0.012,SQL,Java,Go,HTML/CSS
+4,0.012,SQL,Java,NoSQL,Scala
+4,0.01,SQL,Java,NoSQL,RDBMS
+4,0.012,SQL,Java,TypeScript,HTML/CSS
+4,0.032,SQL,AWS,Kubernetes,Docker
+4,0.017,SQL,AWS,Kubernetes,Agile
+4,0.011,SQL,AWS,Kubernetes,Software Engineering
+4,0.013,SQL,AWS,Kubernetes,JavaScript
+4,0.023,SQL,AWS,Kubernetes,Go
+4,0.017,SQL,AWS,Kubernetes,NoSQL
+4,0.012,SQL,AWS,Kubernetes,Scala
+4,0.011,SQL,AWS,Kubernetes,GCP
+4,0.011,SQL,AWS,Kubernetes,TypeScript
+4,0.011,SQL,AWS,Kubernetes,Open Source RDBMS
+4,0.018,SQL,AWS,Docker,Agile
+4,0.011,SQL,AWS,Docker,Software Engineering
+4,0.014,SQL,AWS,Docker,JavaScript
+4,0.023,SQL,AWS,Docker,Go
+4,0.017,SQL,AWS,Docker,NoSQL
+4,0.012,SQL,AWS,Docker,Scala
+4,0.011,SQL,AWS,Docker,GCP
+4,0.012,SQL,AWS,Docker,TypeScript
+4,0.011,SQL,AWS,Docker,Open Source RDBMS
+4,0.01,SQL,AWS,Agile,JavaScript
+4,0.015,SQL,AWS,Agile,Go
+4,0.016,SQL,AWS,Agile,NoSQL
+4,0.011,SQL,AWS,Agile,Scala
+4,0.014,SQL,AWS,JavaScript,Go
+4,0.015,SQL,AWS,JavaScript,TypeScript
+4,0.011,SQL,AWS,JavaScript,HTML/CSS
+4,0.012,SQL,AWS,Azure,GCP
+4,0.012,SQL,AWS,Go,NoSQL
+4,0.012,SQL,AWS,Go,Scala
+4,0.011,SQL,AWS,Go,GCP
+4,0.013,SQL,AWS,Go,TypeScript
+4,0.01,SQL,AWS,Go,HTML/CSS
+4,0.01,SQL,AWS,TypeScript,HTML/CSS
+4,0.018,SQL,Kubernetes,Docker,Agile
+4,0.012,SQL,Kubernetes,Docker,Software Engineering
+4,0.017,SQL,Kubernetes,Docker,JavaScript
+4,0.025,SQL,Kubernetes,Docker,Go
+4,0.011,SQL,Kubernetes,Docker,Cloud Computing
+4,0.018,SQL,Kubernetes,Docker,NoSQL
+4,0.013,SQL,Kubernetes,Docker,Scala
+4,0.011,SQL,Kubernetes,Docker,GCP
+4,0.014,SQL,Kubernetes,Docker,TypeScript
+4,0.01,SQL,Kubernetes,Docker,RDBMS
+4,0.013,SQL,Kubernetes,Docker,Open Source RDBMS
+4,0.011,SQL,Kubernetes,Docker,HTML/CSS
+4,0.013,SQL,Kubernetes,Agile,Go
+4,0.012,SQL,Kubernetes,Agile,NoSQL
+4,0.013,SQL,Kubernetes,JavaScript,Go
+4,0.014,SQL,Kubernetes,JavaScript,TypeScript
+4,0.011,SQL,Kubernetes,JavaScript,HTML/CSS
+4,0.012,SQL,Kubernetes,Go,NoSQL
+4,0.011,SQL,Kubernetes,Go,Scala
+4,0.012,SQL,Kubernetes,Go,TypeScript
+4,0.012,SQL,Kubernetes,Go,Open Source RDBMS
+4,0.01,SQL,Kubernetes,TypeScript,HTML/CSS
+4,0.013,SQL,Docker,Agile,Go
+4,0.012,SQL,Docker,Agile,NoSQL
+4,0.013,SQL,Docker,JavaScript,Go
+4,0.014,SQL,Docker,JavaScript,TypeScript
+4,0.011,SQL,Docker,JavaScript,HTML/CSS
+4,0.012,SQL,Docker,Go,NoSQL
+4,0.011,SQL,Docker,Go,Scala
+4,0.012,SQL,Docker,Go,TypeScript
+4,0.012,SQL,Docker,Go,Open Source RDBMS
+4,0.01,SQL,Docker,TypeScript,HTML/CSS
+4,0.013,SQL,Data Analysis,Tableau,Data Visualization
+4,0.015,SQL,JavaScript,Go,TypeScript
+4,0.012,SQL,JavaScript,Go,HTML/CSS
+4,0.013,SQL,JavaScript,TypeScript,HTML/CSS
+4,0.011,SQL,Go,TypeScript,HTML/CSS
+4,0.01,SQL,Tableau,Data Visualization,R
+4,0.035,Java,AWS,Kubernetes,Docker
+4,0.017,Java,AWS,Kubernetes,Agile
+4,0.012,Java,AWS,Kubernetes,Software Engineering
+4,0.014,Java,AWS,Kubernetes,JavaScript
+4,0.025,Java,AWS,Kubernetes,Go
+4,0.01,Java,AWS,Kubernetes,Cloud Computing
+4,0.016,Java,AWS,Kubernetes,NoSQL
+4,0.012,Java,AWS,Kubernetes,Scala
+4,0.011,Java,AWS,Kubernetes,GCP
+4,0.012,Java,AWS,Kubernetes,TypeScript
+4,0.011,Java,AWS,Kubernetes,Open Source RDBMS
+4,0.018,Java,AWS,Docker,Agile
+4,0.012,Java,AWS,Docker,Software Engineering
+4,0.015,Java,AWS,Docker,JavaScript
+4,0.024,Java,AWS,Docker,Go
+4,0.016,Java,AWS,Docker,NoSQL
+4,0.013,Java,AWS,Docker,Scala
+4,0.011,Java,AWS,Docker,GCP
+4,0.012,Java,AWS,Docker,TypeScript
+4,0.011,Java,AWS,Docker,Open Source RDBMS
+4,0.012,Java,AWS,Agile,JavaScript
+4,0.016,Java,AWS,Agile,Go
+4,0.016,Java,AWS,Agile,NoSQL
+4,0.013,Java,AWS,Agile,Scala
+4,0.011,Java,AWS,Software Engineering,Go
+4,0.011,Java,AWS,Software Engineering,Cloud Computing
+4,0.014,Java,AWS,JavaScript,Go
+4,0.018,Java,AWS,JavaScript,TypeScript
+4,0.012,Java,AWS,JavaScript,HTML/CSS
+4,0.013,Java,AWS,Azure,GCP
+4,0.012,Java,AWS,Go,NoSQL
+4,0.013,Java,AWS,Go,Scala
+4,0.011,Java,AWS,Go,GCP
+4,0.013,Java,AWS,Go,TypeScript
+4,0.011,Java,AWS,NoSQL,Scala
+4,0.011,Java,AWS,NoSQL,RDBMS
+4,0.011,Java,AWS,TypeScript,HTML/CSS
+4,0.018,Java,Kubernetes,Docker,Agile
+4,0.013,Java,Kubernetes,Docker,Software Engineering
+4,0.018,Java,Kubernetes,Docker,JavaScript
+4,0.027,Java,Kubernetes,Docker,Go
+4,0.011,Java,Kubernetes,Docker,Cloud Computing
+4,0.017,Java,Kubernetes,Docker,NoSQL
+4,0.013,Java,Kubernetes,Docker,Scala
+4,0.01,Java,Kubernetes,Docker,GCP
+4,0.011,Java,Kubernetes,Docker,Microservices
+4,0.014,Java,Kubernetes,Docker,TypeScript
+4,0.01,Java,Kubernetes,Docker,RDBMS
+4,0.013,Java,Kubernetes,Docker,Open Source RDBMS
+4,0.011,Java,Kubernetes,Docker,HTML/CSS
+4,0.012,Java,Kubernetes,Agile,Go
+4,0.012,Java,Kubernetes,Agile,NoSQL
+4,0.012,Java,Kubernetes,JavaScript,Go
+4,0.013,Java,Kubernetes,JavaScript,TypeScript
+4,0.01,Java,Kubernetes,JavaScript,HTML/CSS
+4,0.012,Java,Kubernetes,Go,NoSQL
+4,0.011,Java,Kubernetes,Go,Scala
+4,0.011,Java,Kubernetes,Go,TypeScript
+4,0.011,Java,Kubernetes,Go,Open Source RDBMS
+4,0.012,Java,Docker,Agile,Go
+4,0.012,Java,Docker,Agile,NoSQL
+4,0.012,Java,Docker,JavaScript,Go
+4,0.014,Java,Docker,JavaScript,TypeScript
+4,0.01,Java,Docker,JavaScript,HTML/CSS
+4,0.012,Java,Docker,Go,NoSQL
+4,0.011,Java,Docker,Go,Scala
+4,0.011,Java,Docker,Go,TypeScript
+4,0.011,Java,Docker,Go,Open Source RDBMS
+4,0.015,Java,JavaScript,Go,TypeScript
+4,0.012,Java,JavaScript,Go,HTML/CSS
+4,0.014,Java,JavaScript,TypeScript,HTML/CSS
+4,0.011,Java,JavaScript,HTML,CSS
+4,0.011,Java,Go,TypeScript,HTML/CSS
+4,0.012,Java,Scala,Spark,Hadoop
+4,0.02,AWS,Kubernetes,Docker,Agile
+4,0.014,AWS,Kubernetes,Docker,Software Engineering
+4,0.016,AWS,Kubernetes,Docker,JavaScript
+4,0.011,AWS,Kubernetes,Docker,DevOps
+4,0.015,AWS,Kubernetes,Docker,Azure
+4,0.027,AWS,Kubernetes,Docker,Go
+4,0.013,AWS,Kubernetes,Docker,Cloud Computing
+4,0.011,AWS,Kubernetes,Docker,Jenkins
+4,0.017,AWS,Kubernetes,Docker,NoSQL
+4,0.012,AWS,Kubernetes,Docker,Scala
+4,0.014,AWS,Kubernetes,Docker,GCP
+4,0.01,AWS,Kubernetes,Docker,Microservices
+4,0.014,AWS,Kubernetes,Docker,TypeScript
+4,0.01,AWS,Kubernetes,Docker,RDBMS
+4,0.012,AWS,Kubernetes,Docker,Open Source RDBMS
+4,0.013,AWS,Kubernetes,Agile,Go
+4,0.012,AWS,Kubernetes,Agile,NoSQL
+4,0.011,AWS,Kubernetes,JavaScript,Go
+4,0.012,AWS,Kubernetes,JavaScript,TypeScript
+4,0.01,AWS,Kubernetes,Azure,GCP
+4,0.012,AWS,Kubernetes,Go,NoSQL
+4,0.01,AWS,Kubernetes,Go,Scala
+4,0.01,AWS,Kubernetes,Go,TypeScript
+4,0.013,AWS,Docker,Agile,Go
+4,0.012,AWS,Docker,Agile,NoSQL
+4,0.011,AWS,Docker,JavaScript,Go
+4,0.013,AWS,Docker,JavaScript,TypeScript
+4,0.012,AWS,Docker,Go,NoSQL
+4,0.01,AWS,Docker,Go,Scala
+4,0.01,AWS,Docker,Go,TypeScript
+4,0.013,AWS,JavaScript,Go,TypeScript
+4,0.012,AWS,JavaScript,TypeScript,HTML/CSS
+4,0.013,Kubernetes,Docker,Agile,Go
+4,0.012,Kubernetes,Docker,Agile,NoSQL
+4,0.013,Kubernetes,Docker,JavaScript,Go
+4,0.015,Kubernetes,Docker,JavaScript,TypeScript
+4,0.011,Kubernetes,Docker,JavaScript,HTML/CSS
+4,0.012,Kubernetes,Docker,Go,NoSQL
+4,0.011,Kubernetes,Docker,Go,Scala
+4,0.012,Kubernetes,Docker,Go,TypeScript
+4,0.012,Kubernetes,Docker,Go,Open Source RDBMS
+4,0.01,Kubernetes,Docker,TypeScript,HTML/CSS
+4,0.011,Kubernetes,JavaScript,Go,TypeScript
+4,0.01,Kubernetes,JavaScript,TypeScript,HTML/CSS
+4,0.012,Docker,JavaScript,Go,TypeScript
+4,0.01,Docker,JavaScript,TypeScript,HTML/CSS
+4,0.011,JavaScript,Go,TypeScript,HTML/CSS

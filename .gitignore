@@ -1,0 +1,5 @@
+venv/
+.env
+linkedin_job_postings.csv
+job_skills.csv
+
