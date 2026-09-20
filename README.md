@@ -48,7 +48,7 @@ IT job postings sourced from the [LinkedIn Jobs & Skills dataset on Kaggle](http
 ├── Association_rules.csv      # Exported association rules (Premises, Conclusion, Support, Confidence, Lift)
 ├── Frequent_item_sets.csv     # Exported frequent item sets
 ├── skill_recommender.ipynb    # LLM recommendation logic & test cases (AI Capstone)
-├── app.py                     # Streamlit web app (student-facing result page)
+├── webpage.py                     # Streamlit web app (student-facing result page)
 ├── .env                       # Gemini API key (not committed)
 └── README.md
 ```
@@ -83,7 +83,7 @@ Open `skill_recommender.ipynb` in VS Code or Jupyter, select the `venv` kernel, 
 
 **Run the web app:**
 ```bash
-streamlit run app.py
+streamlit run webpage.py
 ```
 This opens the app at `http://localhost:8501`. Enter your current skills and target IT role to get a personalized recommendation, along with the skill-association evidence it was based on.
 
